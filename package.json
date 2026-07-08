@@ -1,0 +1,23 @@
+{
+  "name": "seichi-junrei",
+  "version": "1.0.0",
+  "description": "Seichi Junrei — an animated pilgrimage between iconic anime scenes and their real-life locations. Built with Node.js and GSAP.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "anime",
+    "gsap",
+    "seichi-junrei",
+    "scroll-animation",
+    "locations"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.14"
+  }
+}
