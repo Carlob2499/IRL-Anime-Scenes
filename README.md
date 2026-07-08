@@ -41,12 +41,17 @@ graceful fallbacks).
   reveals, scrubbed “frame → field” clip-path wipes inside pinned scenes,
   parallax, masonry card reveals, marquee.
 - **Lenis** — inertial smooth scrolling feeding ScrollTrigger.
-- **Hand-drawn SVG** — every scene is original vector artwork, drawn twice by
-  cloning a `<template>`: the *anime* layer stays vivid, the *real* layer gets
-  a photographic grade (desaturation, sepia, vignette, film grain) plus
-  real-world-only details (power lines, tourists, lamp posts) while
-  anime-only elements (comets, koi, soot sprites, a crashed satellite)
-  disappear.
+- **Real location photography** — the *field* side of every wipe (and the
+  archive board) is CC-licensed photography of the actual places, fetched
+  from Wikimedia Commons and attributed on-page and in
+  [CREDITS.md](CREDITS.md).
+- **Hand-drawn SVG frames** — the *anime* side of each scene is original
+  vector artwork interpreting the shot (film stills are copyrighted and not
+  distributed here). **Bring your own stills:** drop a screenshot at
+  `public/img/frames/<slug>.jpg` — slugs are `your-name`, `slam-dunk`,
+  `garden-of-words`, `spirited-away`, `steins-gate`, `silent-voice` — and
+  the site automatically uses it as the frame layer. If the photography
+  can't load (offline), scenes fall back to a photo-graded copy of the SVG.
 - **Type system** — Syne (display), Space Grotesk (body), Shippori Mincho B1
   (Japanese serif), IBM Plex Mono (labels & coordinates).
 - Custom cursor, film-grain overlay, and full `prefers-reduced-motion`

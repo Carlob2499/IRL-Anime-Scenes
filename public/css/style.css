@@ -441,7 +441,20 @@ img, svg { display: block; max-width: 100%; }
   clip-path: inset(100% 0 0 0);
   will-change: clip-path;
 }
+/* svg fallback (offline) gets a heavy photographic grade… */
 .scene__layer--real svg { filter: saturate(.5) contrast(1.15) brightness(.92) sepia(.22); }
+/* …real photography only needs a gentle filmic touch */
+.scene__layer--real img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: saturate(1.05) contrast(1.04) brightness(.96);
+}
+.scene__layer--anime img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .scene__layer--real::after {
   content: "";
   position: absolute;
@@ -593,7 +606,7 @@ img, svg { display: block; max-width: 100%; }
   border-color: rgba(255, 200, 107, .5);
   box-shadow: 0 24px 60px rgba(0, 0, 0, .5);
 }
-.card__art { overflow: hidden; }
+.card__art { position: relative; overflow: hidden; }
 .card__art svg {
   width: 100%;
   height: auto;
@@ -601,7 +614,19 @@ img, svg { display: block; max-width: 100%; }
   transition: transform .8s cubic-bezier(.22, 1, .36, 1);
 }
 .card--tall .card__art svg { min-height: 300px; object-fit: cover; }
-.card:hover .card__art svg { transform: scale(1.09); }
+.card__photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1.02);
+  opacity: 0;
+  transition: opacity .6s ease, transform .8s cubic-bezier(.22, 1, .36, 1);
+}
+.card__photo.is-loaded { opacity: 1; }
+.card:hover .card__art svg,
+.card:hover .card__photo { transform: scale(1.09); }
 .card__body { padding: 1.2rem 1.3rem 1.4rem; }
 .card__body h3 {
   font-family: var(--font-display);
@@ -620,6 +645,13 @@ img, svg { display: block; max-width: 100%; }
 }
 .card__body p { margin-top: .6rem; font-size: .84rem; color: var(--paper-dim); }
 .card__coords { color: var(--teal) !important; margin-top: .7rem !important; }
+.card__body .card__credit {
+  font-family: var(--font-mono);
+  font-size: .58rem;
+  letter-spacing: .08em;
+  color: rgba(242, 236, 223, .38);
+  margin-top: .55rem;
+}
 
 /* ==================== PILGRIMAGE ==================== */
 

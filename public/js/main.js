@@ -2,7 +2,7 @@
    SEICHI JUNREI — animation engine (GSAP + ScrollTrigger + Lenis)
    ========================================================================== */
 
-(() => {
+(async () => {
   'use strict';
 
   gsap.registerPlugin(ScrollTrigger);
@@ -47,13 +47,82 @@
 
   document.querySelectorAll('[data-split]').forEach(splitChars);
 
-  /* ---------------- scene frames: clone template into both layers -------- */
+  /* ---------------- photography credits (CC-licensed, Wikimedia Commons) - */
+
+  let credits = {};
+  try {
+    credits = await fetch('/img/credits.json').then((r) => r.json());
+  } catch (_) { /* offline — scenes fall back to graded svg artwork */ }
+
+  /* ---------------- scene frames ----------------
+     anime layer: hand-drawn svg (or a user-supplied film still dropped into
+     public/img/frames/<slug>.jpg — see README). real layer: CC-licensed
+     photography of the actual location. */
 
   document.querySelectorAll('[data-scene]').forEach((scene) => {
     const tpl = scene.querySelector('.scene__art-template');
     const svg = tpl.content.querySelector('svg');
+    const slug = scene.dataset.slug;
+    const credit = credits[slug];
+
     scene.querySelector('.scene__layer--anime').appendChild(svg.cloneNode(true));
-    scene.querySelector('.scene__layer--real').appendChild(svg.cloneNode(true));
+
+    const real = scene.querySelector('.scene__layer--real');
+    if (credit) {
+      const img = document.createElement('img');
+      img.src = `/img/locations/${slug}.jpg`;
+      img.alt = scene.dataset.alt || '';
+      real.appendChild(img);
+
+      const row = document.createElement('div');
+      const dt = document.createElement('dt');
+      dt.textContent = 'Photograph';
+      const dd = document.createElement('dd');
+      const a = document.createElement('a');
+      a.href = credit.source;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = `${credit.artist} — ${credit.license}`;
+      dd.appendChild(a);
+      dd.appendChild(document.createTextNode(', via Wikimedia Commons'));
+      row.appendChild(dt);
+      row.appendChild(dd);
+      scene.querySelector('.scene__data').appendChild(row);
+    } else {
+      real.appendChild(svg.cloneNode(true));
+    }
+
+    // if the repo owner drops a film still at /img/frames/<slug>.jpg,
+    // it replaces the svg interpretation in the anime layer
+    const probe = new Image();
+    probe.onload = () => {
+      const anime = scene.querySelector('.scene__layer--anime');
+      anime.textContent = '';
+      const still = document.createElement('img');
+      still.src = probe.src;
+      still.alt = scene.querySelector('.scene__moment')?.textContent || '';
+      anime.appendChild(still);
+    };
+    probe.src = `/img/frames/${slug}.jpg`;
+  });
+
+  /* ---------------- archive cards: photo pins ---------------- */
+
+  document.querySelectorAll('.card[data-slug]').forEach((card) => {
+    const credit = credits[card.dataset.slug];
+    if (!credit) return;
+    const img = document.createElement('img');
+    img.className = 'card__photo';
+    img.loading = 'lazy';
+    img.alt = '';
+    img.addEventListener('load', () => img.classList.add('is-loaded'));
+    img.src = `/img/cards/${card.dataset.slug}.jpg`;
+    card.querySelector('.card__art').appendChild(img);
+
+    const cred = document.createElement('p');
+    cred.className = 'card__credit';
+    cred.textContent = `photo: ${credit.artist} · ${credit.license} · wikimedia commons`;
+    card.querySelector('.card__body').appendChild(cred);
   });
 
   /* ---------------- reduced motion: static, fully revealed page ---------- */
