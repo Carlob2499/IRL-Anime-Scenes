@@ -51,7 +51,7 @@
 
   let credits = {};
   try {
-    credits = await fetch('/img/credits.json').then((r) => r.json());
+    credits = await fetch('img/credits.json').then((r) => r.json());
   } catch (_) { /* offline — scenes fall back to graded svg artwork */ }
 
   /* ---------------- scene frames ----------------
@@ -70,7 +70,7 @@
     const real = scene.querySelector('.scene__layer--real');
     if (credit) {
       const img = document.createElement('img');
-      img.src = `/img/locations/${slug}.jpg`;
+      img.src = `img/locations/${slug}.jpg`;
       img.alt = scene.dataset.alt || '';
       real.appendChild(img);
 
@@ -103,7 +103,7 @@
       still.alt = scene.querySelector('.scene__moment')?.textContent || '';
       anime.appendChild(still);
     };
-    probe.src = `/img/frames/${slug}.jpg`;
+    probe.src = `img/frames/${slug}.jpg`;
   });
 
   /* ---------------- archive cards: photo pins ---------------- */
@@ -116,7 +116,7 @@
     img.loading = 'lazy';
     img.alt = '';
     img.addEventListener('load', () => img.classList.add('is-loaded'));
-    img.src = `/img/cards/${card.dataset.slug}.jpg`;
+    img.src = `img/cards/${card.dataset.slug}.jpg`;
     card.querySelector('.card__art').appendChild(img);
 
     const cred = document.createElement('p');
