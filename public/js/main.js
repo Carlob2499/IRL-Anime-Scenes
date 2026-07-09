@@ -125,16 +125,51 @@
     card.querySelector('.card__body').appendChild(cred);
   });
 
+  /* ---------------- info overlay toggle (all motion modes) ---------------- */
+
+  const toggles = document.querySelectorAll('.scene__info-toggle');
+  function setOverlays(hidden) {
+    document.body.classList.toggle('overlays-hidden', hidden);
+    toggles.forEach((b) => {
+      b.textContent = hidden ? 'show info' : 'hide info';
+      b.setAttribute('aria-expanded', String(!hidden));
+    });
+  }
+  toggles.forEach((b) => b.addEventListener('click', () =>
+    setOverlays(!document.body.classList.contains('overlays-hidden'))));
+  window.addEventListener('keydown', (e) => {
+    if (e.key.toLowerCase() === 'i' && !e.metaKey && !e.ctrlKey && !e.altKey) {
+      setOverlays(!document.body.classList.contains('overlays-hidden'));
+    }
+  });
+
+  /* ---------------- divider drag (all motion modes) ---------------- */
+
+  document.querySelectorAll('[data-scene]').forEach((scene) => {
+    const frame = scene.querySelector('.scene__frame');
+    const divider = scene.querySelector('.scene__divider');
+    let dragging = false;
+    divider.addEventListener('pointerdown', (e) => {
+      dragging = true;
+      divider.setPointerCapture(e.pointerId);
+      e.preventDefault();
+    });
+    divider.addEventListener('pointermove', (e) => {
+      if (!dragging) return;
+      const r = frame.getBoundingClientRect();
+      const pct = Math.min(100, Math.max(0, ((e.clientX - r.left) / r.width) * 100));
+      frame.style.setProperty('--split', pct + '%');
+    });
+    const stop = () => { dragging = false; };
+    divider.addEventListener('pointerup', stop);
+    divider.addEventListener('pointercancel', stop);
+  });
+
   /* ---------------- reduced motion: static, fully revealed page ---------- */
 
   if (reduced) {
     document.getElementById('preloader').remove();
     gsap.set('.manifesto__text .w', { opacity: 1 });
-    document.querySelectorAll('[data-scene]').forEach((scene) => {
-      scene.style.height = 'auto';
-      scene.querySelector('.scene__layer--real').style.clipPath = 'inset(0 0 50% 0)';
-      scene.querySelector('.scene__divider').style.top = '50%';
-    });
     return;
   }
 
@@ -170,7 +205,7 @@
     ringX(e.clientX); ringY(e.clientY);
   });
 
-  const CURSOR_LABELS = { drag: 'scroll', view: 'view it' };
+  const CURSOR_LABELS = { drag: 'drag', view: 'view it' };
   document.querySelectorAll('[data-cursor]').forEach((el) => {
     const mode = el.dataset.cursor;
     el.addEventListener('pointerenter', () => {
@@ -273,46 +308,63 @@
       });
   });
 
-  /* ---------------- journey scenes: anime → reality wipe ---------------- */
+  /* ---------------- journey scenes: full-page frame|field split ---------- */
+
+  // the nav's 現在地 (current location) readout follows the journey
+  const navJp = document.querySelector('.nav__jp');
+  const NAV_HOME = navJp.textContent;
+  const NAV_LOCATIONS = {
+    'your-name': '現在地 — YOTSUYA, TOKYO',
+    'slam-dunk': '現在地 — KAMAKURA, KANAGAWA',
+    'garden-of-words': '現在地 — SHINJUKU GYOEN, TOKYO',
+    'spirited-away': '現在地 — MATSUYAMA, EHIME',
+    'steins-gate': '現在地 — AKIHABARA, TOKYO',
+    'silent-voice': '現在地 — ŌGAKI, GIFU',
+  };
 
   document.querySelectorAll('[data-scene]').forEach((scene) => {
-    const real = scene.querySelector('.scene__layer--real');
-    const divider = scene.querySelector('.scene__divider');
-    const tagAnime = scene.querySelector('.scene__tag--anime');
-    const tagReal = scene.querySelector('.scene__tag--real');
+    const frame = scene.querySelector('.scene__frame');
 
-    // the wipe: scrolling within the pinned scene pulls reality up over the frame
-    const wipe = gsap.timeline({
-      defaults: { ease: 'none' },
-      scrollTrigger: {
+    const loc = NAV_LOCATIONS[scene.dataset.slug];
+    if (loc) {
+      ScrollTrigger.create({
         trigger: scene,
-        start: 'top top',
-        end: 'bottom bottom',
-        scrub: 0.6,
-      },
-    });
-    wipe
-      .fromTo(real, { clipPath: 'inset(100% 0% 0% 0%)' }, { clipPath: 'inset(0% 0% 0% 0%)', duration: 1 }, 0)
-      .fromTo(divider, { top: '100%' }, { top: '0%', duration: 1 }, 0)
-      .fromTo(tagReal, { opacity: 0 }, { opacity: 1, duration: 0.25 }, 0.08)
-      .to(tagAnime, { opacity: 0.25, duration: 0.3 }, 0.6);
+        start: 'top 50%',
+        end: 'bottom 50%',
+        onEnter: () => { navJp.textContent = loc; },
+        onEnterBack: () => { navJp.textContent = loc; },
+      });
+    }
 
-    // info column reveals as the scene arrives
+    // entrance: the drawn frame owns the screen, then reality slides in to 50/50
+    gsap.fromTo(frame, { '--split': '100%' }, {
+      '--split': '50%',
+      duration: 1.7,
+      ease: 'power3.inOut',
+      scrollTrigger: { trigger: scene, start: 'top 55%', once: true },
+    });
+    gsap.fromTo(scene.querySelectorAll('.scene__tag'), { opacity: 0, y: -12 }, {
+      opacity: 1, y: 0, duration: 0.7, stagger: 0.5, ease: 'power2.out',
+      scrollTrigger: { trigger: scene, start: 'top 50%' },
+    });
+
+    // overlay content cascades in as the scene arrives
     const infoBits = scene.querySelectorAll('.scene__index, .scene__film, .scene__moment, .scene__data > div');
     gsap.fromTo(infoBits,
-      { opacity: 0, y: 34 },
+      { opacity: 0, y: 24 },
       {
-        opacity: 1, y: 0, duration: 0.85, stagger: 0.09, ease: 'power3.out',
-        scrollTrigger: { trigger: scene, start: 'top 62%' },
+        opacity: 1, y: 0, duration: 0.75, stagger: 0.06, ease: 'power3.out',
+        scrollTrigger: { trigger: scene, start: 'top 45%' },
       });
+  });
 
-    // frame drifts up slightly for depth
-    gsap.fromTo(scene.querySelector('.scene__frame'),
-      { y: 60, opacity: 0.4 },
-      {
-        y: 0, opacity: 1, duration: 1, ease: 'power2.out',
-        scrollTrigger: { trigger: scene, start: 'top 78%', end: 'top 30%', scrub: 0.5 },
-      });
+  // back above the journey (or past it), the readout returns home
+  ScrollTrigger.create({
+    trigger: '.journey',
+    start: 'top 50%',
+    end: 'bottom 50%',
+    onLeave: () => { navJp.textContent = NAV_HOME; },
+    onLeaveBack: () => { navJp.textContent = NAV_HOME; },
   });
 
   /* ---------------- archive cards ---------------- */

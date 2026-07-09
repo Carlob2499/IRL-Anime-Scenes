@@ -4,9 +4,11 @@
 real places behind fictional frames.
 
 An animated single-page atlas connecting iconic anime scenes to their real-life
-locations. Scroll inside each pinned frame and the animation *wipes* into a
-photographic treatment of the real place — from the *Your Name* stairway in
-Yotsuya to the *Slam Dunk* railroad crossing in Kamakura.
+locations. Each scene fills the screen as a split pair — the drawn frame on the
+left, the photographed field on the right — with a draggable gold divider to
+slide either side to full screen, and a dismissible glass overlay carrying the
+scene's coordinates and field notes. The nav's 現在地 ("current location")
+readout follows you from Yotsuya to Kamakura as you scroll.
 
 ## The journey (featured scenes)
 
