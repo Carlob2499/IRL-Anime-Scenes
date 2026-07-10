@@ -126,11 +126,38 @@
 
     const art = document.createElement('div');
     art.className = 'card__art';
+
+    const illoMarkup = (window.SEICHI_ILLUSTRATIONS?.bySlug?.[pin.slug])
+      || (window.SEICHI_ILLUSTRATIONS?.byArchetype?.[pin.archetype])
+      || window.SEICHI_ILLUSTRATIONS?.byArchetype?.default;
+    const illo = document.createElement('div');
+    illo.className = 'card__illustration';
+    if (illoMarkup) illo.innerHTML = illoMarkup;
+
+    const photoWrap = document.createElement('div');
+    photoWrap.className = 'card__photo-wrap';
     const img = document.createElement('img');
     img.loading = 'lazy';
     img.src = `img/cards/${pin.slug}.jpg`;
     img.alt = pin.blurb;
-    art.appendChild(img);
+    photoWrap.appendChild(img);
+
+    const tagFrame = document.createElement('span');
+    tagFrame.className = 'card__tag card__tag--anime';
+    tagFrame.textContent = 'frame';
+    const tagField = document.createElement('span');
+    tagField.className = 'card__tag card__tag--real';
+    tagField.textContent = 'field';
+
+    art.append(illo, photoWrap, tagFrame, tagField);
+
+    // touch devices have no hover: tap the art to flip frame <-> field
+    art.addEventListener('click', (e) => {
+      if (!matchMedia('(hover: hover)').matches) {
+        e.preventDefault();
+        art.classList.toggle('is-flipped');
+      }
+    });
 
     const body = document.createElement('div');
     body.className = 'card__body';

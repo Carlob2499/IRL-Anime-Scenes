@@ -10,7 +10,8 @@
       "artist": "SLIMHANNYA",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Japanese_wisteria,_Ashikaga_Flower_Park_1.jpg"
-    }
+    },
+    "archetype": "forest"
   },
   {
     "slug": "lucky-star",
@@ -23,7 +24,8 @@
       "artist": "Lukini",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Washinomiya_Shrine_-_new_gate.jpg"
-    }
+    },
+    "archetype": "shrine"
   },
   {
     "slug": "k-on",
@@ -36,7 +38,8 @@
       "artist": "Tokumeigakarinoaoshima",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Toyosato_Elementary_School_Old_Building_(1).JPG"
-    }
+    },
+    "archetype": "old-street"
   },
   {
     "slug": "5cm",
@@ -49,7 +52,8 @@
       "artist": "Kaze315",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Sangubashi_Station_West.jpg"
-    }
+    },
+    "archetype": "crossing"
   },
   {
     "slug": "weathering",
@@ -62,7 +66,8 @@
       "artist": "Rs1421",
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Yoyogi-Kaikan-Building-01.jpg"
-    }
+    },
+    "archetype": "rooftop"
   },
   {
     "slug": "aot",
@@ -75,7 +80,8 @@
       "artist": "Jakub Hałun",
       "license": "CC BY 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Daniel_tower_of_St._George%E2%80%99s_Church_in_N%C3%B6rdlingen,_20250501_1244_8370.jpg"
-    }
+    },
+    "archetype": "castle"
   },
   {
     "slug": "ponyo",
@@ -88,7 +94,8 @@
       "artist": "carpkazu",
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tomonoura_port_03.JPG"
-    }
+    },
+    "archetype": "harbor"
   },
   {
     "slug": "yuru-camp",
@@ -101,7 +108,8 @@
       "artist": "Supanut Arunoprayote",
       "license": "CC BY 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Motosu_20241026.jpg"
-    }
+    },
+    "archetype": "mountain-lake"
   },
   {
     "slug": "anohana",
@@ -114,7 +122,8 @@
       "artist": "toriichi3",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E7%A7%A9%E7%88%B6%E6%A9%8B%EF%BC%88%E6%97%A7%EF%BC%89%E3%81%8B%E3%82%89%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%82%92%E6%9C%9B%E3%82%80_-_panoramio.jpg"
-    }
+    },
+    "archetype": "bridge"
   },
   {
     "slug": "hyouka",
@@ -127,7 +136,8 @@
       "artist": "663highland",
       "license": "CC BY 2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Sanmachi_Takayama06ds3872.jpg"
-    }
+    },
+    "archetype": "old-street"
   },
   {
     "slug": "higurashi",
@@ -140,7 +150,8 @@
       "artist": "Koichi Hayakawa",
       "license": "CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Triplets_Gassho-zukuri_houses_(Shirakawa-go)_Gifu_(49908188231).jpg"
-    }
+    },
+    "archetype": "snow-village"
   },
   {
     "slug": "evangelion",
@@ -153,7 +164,8 @@
       "artist": "Kentagon",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:LakeAshi_and_MtFuji_Hakone.JPG"
-    }
+    },
+    "archetype": "mountain-lake"
   },
   {
     "slug": "love-live",
@@ -166,7 +178,8 @@
       "artist": "teien_off",
       "license": "CC BY 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kanda_shrine,_Chiyoda;_June_2008_(06).jpg"
-    }
+    },
+    "archetype": "shrine"
   },
   {
     "slug": "love-live-sunshine",
@@ -179,7 +192,8 @@
       "artist": "木林森",
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Numazu_port_market.jpg"
-    }
+    },
+    "archetype": "harbor"
   },
   {
     "slug": "girls-und-panzer",
@@ -192,7 +206,8 @@
       "artist": "Σ64",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_01.jpg"
-    }
+    },
+    "archetype": "shrine"
   },
   {
     "slug": "sound-euphonium",
@@ -205,7 +220,8 @@
       "artist": "Hyppolyte de Saint-Rambert",
       "license": "CC BY 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Uji_Jinja_(Uji,_Kyoto)_Bridge_hdsr_S5_139.jpg"
-    }
+    },
+    "archetype": "bridge"
   },
   {
     "slug": "suzume",
@@ -218,7 +234,8 @@
       "artist": "Kabelleger / David Gubler",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Metro_and_JR_East_at_Ochanomizu,_Tokyo.jpg"
-    }
+    },
+    "archetype": "bridge"
   },
   {
     "slug": "sailor-moon",
@@ -231,7 +248,8 @@
       "artist": "写真家 (talk)",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Hikawa_shrine_moto-azabu_1.jpg"
-    }
+    },
+    "archetype": "shrine"
   },
   {
     "slug": "durarara",
@@ -244,7 +262,8 @@
       "artist": "Asanagi",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg"
-    }
+    },
+    "archetype": "neon-street"
   },
   {
     "slug": "jujutsu-kaisen",
@@ -257,7 +276,8 @@
       "artist": "Benh LIEU SONG (Flickr)",
       "license": "CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
-    }
+    },
+    "archetype": "crossing"
   },
   {
     "slug": "whisper-heart",
@@ -270,7 +290,8 @@
       "artist": "Sphl",
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Seiseki-sakuragaoka-station.jpg"
-    }
+    },
+    "archetype": "hillside-town"
   },
   {
     "slug": "summer-wars",
@@ -283,7 +304,8 @@
       "artist": "Yamaguchi Yoshiaki from Japan",
       "license": "CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:The_gate_of_Ueda_castle_(2020394910).jpg"
-    }
+    },
+    "archetype": "castle"
   },
   {
     "slug": "barakamon",
@@ -296,7 +318,8 @@
       "artist": "Kotaro 6 at Japanese Wikipedia",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Takahama-beach.jpg"
-    }
+    },
+    "archetype": "beach"
   },
   {
     "slug": "universe",
@@ -309,7 +332,8 @@
       "artist": "Taketarou",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:TatebayashiStation_20091212.jpg"
-    }
+    },
+    "archetype": "hillside-town"
   },
   {
     "slug": "march-lion",
@@ -322,7 +346,8 @@
       "artist": "663highland",
       "license": "CC BY 2.5",
       "source": "https://commons.wikimedia.org/wiki/File%3ASumida_river04s2100.jpg"
-    }
+    },
+    "archetype": "bridge"
   },
   {
     "slug": "tamako",
@@ -335,7 +360,8 @@
       "artist": "Razgrad",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:RZ_Demachi_Masugata_shopping_street_A.jpg"
-    }
+    },
+    "archetype": "shopping-street"
   },
   {
     "slug": "natsume",
@@ -348,7 +374,8 @@
       "artist": "そらみみ",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Romon_Gate_of_Aoi_Aso_Shrine.jpg"
-    }
+    },
+    "archetype": "shrine"
   },
   {
     "slug": "mononoke",
@@ -361,7 +388,8 @@
       "artist": "KimonBerlin",
       "license": "CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Shiratani_Unsuikyo_(4196797010).jpg"
-    }
+    },
+    "archetype": "forest"
   },
   {
     "slug": "howl",
@@ -374,7 +402,8 @@
       "artist": "Krzysztof Golik",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Little_Venice_in_Colmar_01.jpg"
-    }
+    },
+    "archetype": "euro-street"
   },
   {
     "slug": "kiki",
@@ -387,7 +416,8 @@
       "artist": "Andy Eick",
       "license": "CC BY 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Visby_rooftops.jpg"
-    }
+    },
+    "archetype": "rooftop"
   },
   {
     "slug": "bunny-girl",
@@ -400,7 +430,8 @@
       "artist": "Dick Thomas Johnson",
       "license": "CC BY 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kamakura_High_School_Front_Level_Crossing_(53149277547).jpg"
-    }
+    },
+    "archetype": "crossing"
   },
   {
     "slug": "free",
@@ -413,7 +444,8 @@
       "artist": "Hashi photo",
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Uradome_Coast_Sengan-Matsushima.JPG"
-    }
+    },
+    "archetype": "beach"
   },
   {
     "slug": "bocchi",
@@ -426,7 +458,8 @@
       "artist": "Aw1805",
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File%3AShimokitazawa_Street_2015.jpg"
-    }
+    },
+    "archetype": "shopping-street"
   },
   {
     "slug": "wolf-children",
@@ -439,7 +472,8 @@
       "artist": "拓実 橋本",
       "license": "CC BY 2.0",
       "source": "https://commons.wikimedia.org/wiki/File%3ATsurugi-dake_%2815463262398%29.jpg"
-    }
+    },
+    "archetype": "mountain-lake"
   },
   {
     "title": "Haikyu!!",
@@ -452,6 +486,7 @@
       "artist": "広瀬川",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:Kamei_Arena_Sendai.jpg"
-    }
+    },
+    "archetype": "hillside-town"
   }
 ]

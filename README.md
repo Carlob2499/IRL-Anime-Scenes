@@ -47,13 +47,19 @@ graceful fallbacks).
   archive board) is CC-licensed photography of the actual places, fetched
   from Wikimedia Commons and attributed on-page and in
   [CREDITS.md](CREDITS.md).
-- **Hand-drawn SVG frames** — the *anime* side of each scene is original
-  vector artwork interpreting the shot (film stills are copyrighted and not
-  distributed here). **Bring your own stills:** drop a screenshot at
-  `public/img/frames/<slug>.jpg` — slugs are `your-name`, `slam-dunk`,
-  `garden-of-words`, `spirited-away`, `steins-gate`, `silent-voice` — and
-  the site automatically uses it as the frame layer. If the photography
-  can't load (offline), scenes fall back to a photo-graded copy of the SVG.
+- **Illustrated frames, everywhere** — the *anime* side of every featured
+  scene *and* every archive card is original vector artwork interpreting the
+  location (film stills are copyrighted and are never fetched or
+  distributed here). Archive cards draw from a library of ~15 reusable
+  “archetype” illustrations (shrine, harbor, bridge, castle, snow-village,
+  neon-street…) in `public/js/illustrations.js`, auto-matched to each new
+  pin by `scripts/add-pins.py`; hover a card (or tap on touch) to crossfade
+  from the illustration to the real photograph. **Bring your own stills:**
+  drop a screenshot at `public/img/frames/<slug>.jpg` for the six featured
+  scenes — slugs are `your-name`, `slam-dunk`, `garden-of-words`,
+  `spirited-away`, `steins-gate`, `silent-voice` — and the site automatically
+  uses it in place of the illustration. If the photography can't load
+  (offline), scenes fall back to a photo-graded copy of the SVG.
 - **Type system** — Syne (display), Space Grotesk (body), Shippori Mincho B1
   (Japanese serif), IBM Plex Mono (labels & coordinates).
 - Custom cursor, film-grain overlay, and full `prefers-reduced-motion`

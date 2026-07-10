@@ -672,15 +672,61 @@ body.overlays-hidden .scene__info {
   border-color: rgba(255, 200, 107, .5);
   box-shadow: 0 24px 60px rgba(0, 0, 0, .5);
 }
-.card__art { overflow: hidden; background: rgba(242, 236, 223, .06); min-height: 120px; }
-.card__art img {
+/* every card is a small frame ↔ field pair, same language as the hero
+   scenes: an original illustration underneath, the real photograph on
+   top, revealed on hover (desktop) or tap (touch, via .is-flipped). */
+.card__art {
+  position: relative;
+  overflow: hidden;
+  background: rgba(242, 236, 223, .06);
+  aspect-ratio: 4 / 3;
+}
+.card--tall .card__art { aspect-ratio: 4 / 5; }
+.card__illustration,
+.card__photo-wrap {
+  position: absolute;
+  inset: 0;
+}
+.card__illustration svg,
+.card__photo-wrap img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
+  object-fit: cover;
   transform: scale(1.02);
   transition: transform .8s cubic-bezier(.22, 1, .36, 1);
 }
-.card:hover .card__art img { transform: scale(1.09); }
+.card__photo-wrap {
+  opacity: 0;
+  transition: opacity .55s ease;
+}
+.card:hover .card__photo-wrap,
+.card__art.is-flipped .card__photo-wrap { opacity: 1; }
+.card:hover .card__illustration svg,
+.card:hover .card__photo-wrap img,
+.card__art.is-flipped .card__photo-wrap img { transform: scale(1.09); }
+
+.card__tag {
+  position: absolute;
+  z-index: 2;
+  font-family: var(--font-mono);
+  font-size: .56rem;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  padding: .3rem .6rem;
+  border-radius: 100px;
+  backdrop-filter: blur(6px);
+  transition: opacity .4s ease;
+}
+.card__tag--anime { top: .7rem; left: .7rem; background: rgba(13, 11, 22, .55); color: var(--gold); }
+.card__tag--real { top: .7rem; right: .7rem; background: rgba(242, 236, 223, .82); color: var(--ink); opacity: 0; }
+.card:hover .card__tag--real,
+.card__art.is-flipped .card__tag--real { opacity: 1; }
+.card:hover .card__tag--anime,
+.card__art.is-flipped .card__tag--anime { opacity: .35; }
+@media (hover: none) {
+  .card__tag--anime { opacity: .8; }
+}
 .card__body { padding: 1.2rem 1.3rem 1.4rem; }
 .card__body h3 {
   font-family: var(--font-display);

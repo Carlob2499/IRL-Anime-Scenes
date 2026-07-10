@@ -55,6 +55,37 @@ def grab(title, dest, width=1200):
     return {"file": title, "artist": artist, "license": lic, "source": ii["descriptionurl"]}
 
 
+# keyword -> illustration archetype (see public/js/illustrations.js).
+# Matched against the entry's blurb + title, first hit wins. Keep this in
+# sync with the archetypes defined there; unmatched entries fall back to
+# 'default', a generic dusk skyline.
+ARCHETYPE_KEYWORDS = [
+    ("torii", "shrine"), ("shrine", "shrine"), ("jinja", "shrine"),
+    ("harbor", "harbor"), ("harbour", "harbor"), ("port", "harbor"),
+    ("lake", "mountain-lake"), ("mount", "mountain-lake"),
+    ("bridge", "bridge"),
+    ("snow", "snow-village"), ("gassho", "snow-village"),
+    ("shopping street", "shopping-street"), ("arcade", "shopping-street"),
+    ("neon", "neon-street"), ("night street", "neon-street"),
+    ("crossing", "crossing"), ("station", "crossing"),
+    ("castle", "castle"),
+    ("forest", "forest"), ("wood", "forest"),
+    ("rooftop", "rooftop"),
+    ("beach", "beach"), ("coast", "beach"), ("island", "beach"),
+    ("half-timbered", "euro-street"), ("colmar", "euro-street"), ("alsace", "euro-street"),
+    ("hillside", "hillside-town"), ("hill", "hillside-town"), ("town", "hillside-town"),
+    ("old town", "old-street"), ("old quarter", "old-street"), ("street", "old-street"),
+]
+
+
+def guess_archetype(entry):
+    text = (entry.get("blurb", "") + " " + entry.get("title", "")).lower()
+    for kw, archetype in ARCHETYPE_KEYWORDS:
+        if kw in text:
+            return archetype
+    return "default"
+
+
 def regenerate_credits(pins):
     head = open(CREDITS).read().split("## Archive pins")[0]
     rows = "\n".join(
@@ -103,6 +134,7 @@ def main(count=5):
                 print(f"ERR {entry['slug']}: {q}: {e}")
         if credit:
             pin = {k: entry[k] for k in ("slug", "title", "jp", "blurb", "coords")}
+            pin["archetype"] = entry.get("archetype") or guess_archetype(entry)
             pin["credit"] = credit
             pins.append(pin)
             added.append(entry["slug"])
