@@ -106,24 +106,57 @@
     probe.src = `img/frames/${slug}.jpg`;
   });
 
-  /* ---------------- archive cards: photo pins ---------------- */
+  /* ---------------- archive board: rendered from img/pins.json ----------
+     every pin is a confirmed pilgrimage pair; the card links to the
+     photograph's Wikimedia Commons source page. */
 
-  document.querySelectorAll('.card[data-slug]').forEach((card) => {
-    const credit = credits[card.dataset.slug];
-    if (!credit) return;
+  let pins = [];
+  try {
+    pins = await fetch('img/pins.json').then((r) => r.json());
+  } catch (_) { /* offline — board stays empty, journey still works */ }
+
+  const masonry = document.getElementById('masonry');
+  pins.forEach((pin) => {
+    const card = document.createElement('a');
+    card.className = 'card';
+    card.href = pin.credit.source;
+    card.target = '_blank';
+    card.rel = 'noopener';
+    card.setAttribute('data-cursor', 'view');
+
+    const art = document.createElement('div');
+    art.className = 'card__art';
     const img = document.createElement('img');
-    img.className = 'card__photo';
     img.loading = 'lazy';
-    img.alt = '';
-    img.addEventListener('load', () => img.classList.add('is-loaded'));
-    img.src = `img/cards/${card.dataset.slug}.jpg`;
-    card.querySelector('.card__art').appendChild(img);
+    img.src = `img/cards/${pin.slug}.jpg`;
+    img.alt = pin.blurb;
+    art.appendChild(img);
 
+    const body = document.createElement('div');
+    body.className = 'card__body';
+    const h3 = document.createElement('h3');
+    const jp = document.createElement('span');
+    jp.textContent = pin.jp;
+    h3.append(document.createTextNode(pin.title), jp);
+    const blurb = document.createElement('p');
+    blurb.textContent = pin.blurb;
+    const coords = document.createElement('p');
+    coords.className = 'card__coords mono';
+    coords.textContent = pin.coords;
     const cred = document.createElement('p');
     cred.className = 'card__credit';
-    cred.textContent = `photo: ${credit.artist} · ${credit.license} · wikimedia commons`;
-    card.querySelector('.card__body').appendChild(cred);
+    cred.textContent = `photo: ${pin.credit.artist} · ${pin.credit.license} · wikimedia commons`;
+    body.append(h3, blurb, coords, cred);
+
+    card.append(art, body);
+    masonry.appendChild(card);
   });
+
+  // the hero stat reflects the real size of the atlas
+  if (pins.length) {
+    document.querySelector('.hero__meta-item').textContent =
+      `6 featured scenes ↔ ${pins.length} pinned pilgrimages`;
+  }
 
   /* ---------------- info overlay toggle (all motion modes) ---------------- */
 

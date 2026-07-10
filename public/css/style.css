@@ -654,7 +654,7 @@ body.overlays-hidden .scene__info {
 .archive__sub { margin-top: 1.4rem; color: var(--paper-dim); max-width: 40ch; }
 
 .masonry {
-  columns: 3 300px;
+  columns: 4 300px;
   column-gap: 1.6rem;
 }
 .card {
@@ -672,27 +672,15 @@ body.overlays-hidden .scene__info {
   border-color: rgba(255, 200, 107, .5);
   box-shadow: 0 24px 60px rgba(0, 0, 0, .5);
 }
-.card__art { position: relative; overflow: hidden; }
-.card__art svg {
+.card__art { overflow: hidden; background: rgba(242, 236, 223, .06); min-height: 120px; }
+.card__art img {
   width: 100%;
   height: auto;
+  display: block;
   transform: scale(1.02);
   transition: transform .8s cubic-bezier(.22, 1, .36, 1);
 }
-.card--tall .card__art svg { min-height: 300px; object-fit: cover; }
-.card__photo {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transform: scale(1.02);
-  opacity: 0;
-  transition: opacity .6s ease, transform .8s cubic-bezier(.22, 1, .36, 1);
-}
-.card__photo.is-loaded { opacity: 1; }
-.card:hover .card__art svg,
-.card:hover .card__photo { transform: scale(1.09); }
+.card:hover .card__art img { transform: scale(1.09); }
 .card__body { padding: 1.2rem 1.3rem 1.4rem; }
 .card__body h3 {
   font-family: var(--font-display);

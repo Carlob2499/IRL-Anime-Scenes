@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "demon-slayer",
+    "title": "Demon Slayer",
+    "jp": "鬼滅の刃",
+    "blurb": "Mount Fujino’s wisteria fields ↔ Ashikaga Flower Park, Tochigi",
+    "coords": "36.3147° N, 139.5205° E",
+    "credit": {
+      "file": "File:Japanese wisteria, Ashikaga Flower Park 1.jpg",
+      "artist": "SLIMHANNYA",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Japanese_wisteria,_Ashikaga_Flower_Park_1.jpg"
+    }
+  },
+  {
+    "slug": "lucky-star",
+    "title": "Lucky Star",
+    "jp": "らき☆すた",
+    "blurb": "The Hiiragi shrine ↔ Washinomiya Shrine, Saitama — anime’s original pilgrimage boom",
+    "coords": "36.1015° N, 139.6689° E",
+    "credit": {
+      "file": "File:Washinomiya Shrine - new gate.jpg",
+      "artist": "Lukini",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Washinomiya_Shrine_-_new_gate.jpg"
+    }
+  },
+  {
+    "slug": "k-on",
+    "title": "K-On!",
+    "jp": "けいおん！",
+    "blurb": "Sakuragaoka High ↔ Toyosato Elementary’s 1937 schoolhouse, Shiga",
+    "coords": "35.2033° N, 136.2323° E",
+    "credit": {
+      "file": "File:Toyosato Elementary School Old Building (1).JPG",
+      "artist": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyosato_Elementary_School_Old_Building_(1).JPG"
+    }
+  },
+  {
+    "slug": "5cm",
+    "title": "5 Centimeters per Second",
+    "jp": "秒速5センチメートル",
+    "blurb": "The cherry-blossom crossing ↔ Sangubashi station area, Shibuya",
+    "coords": "35.6784° N, 139.6934° E",
+    "credit": {
+      "file": "File:Sangubashi Station West.jpg",
+      "artist": "Kaze315",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sangubashi_Station_West.jpg"
+    }
+  },
+  {
+    "slug": "weathering",
+    "title": "Weathering With You",
+    "jp": "天気の子",
+    "blurb": "Hina’s rooftop torii ↔ the former Yoyogi Kaikan, Shinjuku",
+    "coords": "35.6837° N, 139.7020° E",
+    "credit": {
+      "file": "File:Yoyogi-Kaikan-Building-01.jpg",
+      "artist": "Rs1421",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yoyogi-Kaikan-Building-01.jpg"
+    }
+  },
+  {
+    "slug": "aot",
+    "title": "Attack on Titan",
+    "jp": "進撃の巨人",
+    "blurb": "The walled district of Shiganshina ↔ Nördlingen’s ring wall, Bavaria",
+    "coords": "48.8521° N, 10.4886° E",
+    "credit": {
+      "file": "File:View from the Daniel tower of St. George’s Church in Nördlingen, 20250501 1244 8370.jpg",
+      "artist": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Daniel_tower_of_St._George%E2%80%99s_Church_in_N%C3%B6rdlingen,_20250501_1244_8370.jpg"
+    }
+  },
+  {
+    "slug": "ponyo",
+    "title": "Ponyo",
+    "jp": "崖の上のポニョ",
+    "blurb": "Sōsuke’s harbour town ↔ Tomonoura port, Hiroshima",
+    "coords": "34.3838° N, 133.3829° E",
+    "credit": {
+      "file": "File:Tomonoura port 03.JPG",
+      "artist": "carpkazu",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomonoura_port_03.JPG"
+    }
+  },
+  {
+    "slug": "yuru-camp",
+    "title": "Laid-Back Camp",
+    "jp": "ゆるキャン△",
+    "blurb": "Rin’s lakeside campsite ↔ Lake Motosu & Mt. Fuji, Yamanashi",
+    "coords": "35.4623° N, 138.5860° E",
+    "credit": {
+      "file": "File:Mount Fuji from Lake Motosu 20241026.jpg",
+      "artist": "Supanut Arunoprayote",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Motosu_20241026.jpg"
+    }
+  },
+  {
+    "slug": "anohana",
+    "title": "Anohana",
+    "jp": "あの花",
+    "blurb": "The Super Peace Busters’ bridge ↔ Old Chichibu Bridge, Saitama",
+    "coords": "35.9993° N, 139.0869° E",
+    "credit": {
+      "file": "File:秩父橋（旧）から武甲山を望む - panoramio.jpg",
+      "artist": "toriichi3",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%A7%A9%E7%88%B6%E6%A9%8B%EF%BC%88%E6%97%A7%EF%BC%89%E3%81%8B%E3%82%89%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%82%92%E6%9C%9B%E3%82%80_-_panoramio.jpg"
+    }
+  },
+  {
+    "slug": "hyouka",
+    "title": "Hyouka",
+    "jp": "氷菓",
+    "blurb": "Kamiyama High’s town ↔ Hida-Takayama’s old quarter, Gifu",
+    "coords": "36.1439° N, 137.2576° E",
+    "credit": {
+      "file": "File:Sanmachi Takayama06ds3872.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanmachi_Takayama06ds3872.jpg"
+    }
+  },
+  {
+    "slug": "higurashi",
+    "title": "Higurashi: When They Cry",
+    "jp": "ひぐらしのなく頃に",
+    "blurb": "Hinamizawa village ↔ Shirakawa-gō’s gasshō farmhouses, Gifu",
+    "coords": "36.2578° N, 136.9061° E",
+    "credit": {
+      "file": "File:Triplets Gassho-zukuri houses (Shirakawa-go) Gifu (49908188231).jpg",
+      "artist": "Koichi Hayakawa",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Triplets_Gassho-zukuri_houses_(Shirakawa-go)_Gifu_(49908188231).jpg"
+    }
+  },
+  {
+    "slug": "evangelion",
+    "title": "Neon Genesis Evangelion",
+    "jp": "新世紀エヴァンゲリオン",
+    "blurb": "Tokyo-3 ↔ Hakone and Lake Ashi, Kanagawa",
+    "coords": "35.2042° N, 139.0250° E",
+    "credit": {
+      "file": "File:LakeAshi and MtFuji Hakone.JPG",
+      "artist": "Kentagon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LakeAshi_and_MtFuji_Hakone.JPG"
+    }
+  },
+  {
+    "slug": "love-live",
+    "title": "Love Live!",
+    "jp": "ラブライブ！",
+    "blurb": "μ’s home shrine ↔ Kanda Myōjin, Chiyoda, Tokyo",
+    "coords": "35.7020° N, 139.7679° E",
+    "credit": {
+      "file": "File:Kanda shrine, Chiyoda; June 2008 (06).jpg",
+      "artist": "teien_off",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kanda_shrine,_Chiyoda;_June_2008_(06).jpg"
+    }
+  },
+  {
+    "slug": "love-live-sunshine",
+    "title": "Love Live! Sunshine!!",
+    "jp": "ラブライブ！サンシャイン!!",
+    "blurb": "Aqours’ harbour town ↔ Numazu, Shizuoka",
+    "coords": "35.0771° N, 138.8560° E",
+    "credit": {
+      "file": "File:Numazu port market.jpg",
+      "artist": "木林森",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Numazu_port_market.jpg"
+    }
+  },
+  {
+    "slug": "girls-und-panzer",
+    "title": "Girls und Panzer",
+    "jp": "ガールズ&パンツァー",
+    "blurb": "Ōarai’s tank-parade streets ↔ Ōarai Isosaki Shrine, Ibaraki",
+    "coords": "36.3128° N, 140.5928° E",
+    "credit": {
+      "file": "File:Oarai Isosaki Shrine 01.jpg",
+      "artist": "Σ64",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_01.jpg"
+    }
+  },
+  {
+    "slug": "sound-euphonium",
+    "title": "Sound! Euphonium",
+    "jp": "響け！ユーフォニアム",
+    "blurb": "Kitauji High’s riverside ↔ Uji Bridge, Kyoto",
+    "coords": "34.8930° N, 135.8077° E",
+    "credit": {
+      "file": "File:Uji Jinja (Uji, Kyoto) Bridge hdsr S5 139.jpg",
+      "artist": "Hyppolyte de Saint-Rambert",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Uji_Jinja_(Uji,_Kyoto)_Bridge_hdsr_S5_139.jpg"
+    }
+  },
+  {
+    "slug": "suzume",
+    "title": "Suzume",
+    "jp": "すずめの戸締まり",
+    "blurb": "The Tokyo door ↔ Hijiri Bridge, Ochanomizu",
+    "coords": "35.6997° N, 139.7648° E",
+    "credit": {
+      "file": "File:Tokyo Metro and JR East at Ochanomizu, Tokyo.jpg",
+      "artist": "Kabelleger / David Gubler",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Metro_and_JR_East_at_Ochanomizu,_Tokyo.jpg"
+    }
+  },
+  {
+    "slug": "sailor-moon",
+    "title": "Sailor Moon",
+    "jp": "美少女戦士セーラームーン",
+    "blurb": "Rei’s Hikawa Shrine ↔ Azabu-Jūban, Minato, Tokyo",
+    "coords": "35.6565° N, 139.7350° E",
+    "credit": {
+      "file": "File:Hikawa shrine moto-azabu 1.jpg",
+      "artist": "写真家 (talk)",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hikawa_shrine_moto-azabu_1.jpg"
+    }
+  },
+  {
+    "slug": "durarara",
+    "title": "Durarara!!",
+    "jp": "デュラララ!!",
+    "blurb": "Ikebukuro’s twilight ↔ Sunshine 60 street, Toshima, Tokyo",
+    "coords": "35.7295° N, 139.7177° E",
+    "credit": {
+      "file": "File:Sunshine 60 Street 2020-04-19.jpg",
+      "artist": "Asanagi",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg"
+    }
+  },
+  {
+    "slug": "jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "jp": "呪術廻戦",
+    "blurb": "The Shibuya Incident ↔ Shibuya scramble crossing, Tokyo",
+    "coords": "35.6595° N, 139.7005° E",
+    "credit": {
+      "file": "File:Tokyo Shibuya Scramble Crossing 2018-10-09.jpg",
+      "artist": "Benh LIEU SONG (Flickr)",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+    }
+  },
+  {
+    "slug": "whisper-heart",
+    "title": "Whisper of the Heart",
+    "jp": "耳をすませば",
+    "blurb": "Shizuku’s hillside town ↔ Seiseki-Sakuragaoka, Tama, Tokyo",
+    "coords": "35.6420° N, 139.4460° E",
+    "credit": {
+      "file": "File:Seiseki-sakuragaoka-station.jpg",
+      "artist": "Sphl",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Seiseki-sakuragaoka-station.jpg"
+    }
+  },
+  {
+    "slug": "summer-wars",
+    "title": "Summer Wars",
+    "jp": "サマーウォーズ",
+    "blurb": "The Jinnouchi estate ↔ Ueda Castle, Nagano",
+    "coords": "36.4040° N, 138.2440° E",
+    "credit": {
+      "file": "File:The gate of Ueda castle (2020394910).jpg",
+      "artist": "Yamaguchi Yoshiaki from Japan",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_gate_of_Ueda_castle_(2020394910).jpg"
+    }
+  },
+  {
+    "slug": "barakamon",
+    "title": "Barakamon",
+    "jp": "ばらかもん",
+    "blurb": "Handa’s island exile ↔ the Gotō Islands, Nagasaki",
+    "coords": "32.6881° N, 128.8419° E",
+    "credit": {
+      "file": "File:Takahama-beach.jpg",
+      "artist": "Kotaro 6 at Japanese Wikipedia",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Takahama-beach.jpg"
+    }
+  },
+  {
+    "slug": "universe",
+    "title": "A Place Further than the Universe",
+    "jp": "宇宙よりも遠い場所",
+    "blurb": "Kimari’s hometown ↔ Tatebayashi, Gunma",
+    "coords": "36.2452° N, 139.5347° E",
+    "credit": {
+      "file": "File:TatebayashiStation 20091212.jpg",
+      "artist": "Taketarou",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:TatebayashiStation_20091212.jpg"
+    }
+  },
+  {
+    "slug": "march-lion",
+    "title": "March Comes in Like a Lion",
+    "jp": "3月のライオン",
+    "blurb": "Rei’s bridge over the Sumida ↔ Chūō-Ōhashi, Tokyo",
+    "coords": "35.6740° N, 139.7790° E",
+    "credit": {
+      "file": "File:Sumida river04s2100.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File%3ASumida_river04s2100.jpg"
+    }
+  },
+  {
+    "slug": "tamako",
+    "title": "Tamako Market",
+    "jp": "たまこまーけっと",
+    "blurb": "Usagiyama arcade ↔ Masugata shopping street, Demachi, Kyoto",
+    "coords": "35.0301° N, 135.7717° E",
+    "credit": {
+      "file": "File:RZ Demachi Masugata shopping street A.jpg",
+      "artist": "Razgrad",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:RZ_Demachi_Masugata_shopping_street_A.jpg"
+    }
+  },
+  {
+    "slug": "natsume",
+    "title": "Natsume’s Book of Friends",
+    "jp": "夏目友人帳",
+    "blurb": "Natsume’s countryside ↔ Hitoyoshi, Kumamoto",
+    "coords": "32.2167° N, 130.7500° E",
+    "credit": {
+      "file": "File:Romon Gate of Aoi Aso Shrine.jpg",
+      "artist": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Romon_Gate_of_Aoi_Aso_Shrine.jpg"
+    }
+  },
+  {
+    "slug": "mononoke",
+    "title": "Princess Mononoke",
+    "jp": "もののけ姫",
+    "blurb": "The Shishigami’s forest ↔ Shiratani Unsuikyō, Yakushima",
+    "coords": "30.3915° N, 130.5722° E",
+    "credit": {
+      "file": "File:Shiratani Unsuikyo (4196797010).jpg",
+      "artist": "KimonBerlin",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shiratani_Unsuikyo_(4196797010).jpg"
+    }
+  },
+  {
+    "slug": "howl",
+    "title": "Howl’s Moving Castle",
+    "jp": "ハウルの動く城",
+    "blurb": "Sophie’s hometown ↔ Colmar’s half-timbered lanes, Alsace",
+    "coords": "48.0778° N, 7.3556° E",
+    "credit": {
+      "file": "File:Little Venice in Colmar 01.jpg",
+      "artist": "Krzysztof Golik",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Little_Venice_in_Colmar_01.jpg"
+    }
+  },
+  {
+    "slug": "kiki",
+    "title": "Kiki’s Delivery Service",
+    "jp": "魔女の宅急便",
+    "blurb": "Koriko’s rooftops ↔ Visby, Gotland, Sweden",
+    "coords": "57.6348° N, 18.2948° E",
+    "credit": {
+      "file": "File:Visby rooftops.jpg",
+      "artist": "Andy Eick",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Visby_rooftops.jpg"
+    }
+  },
+  {
+    "slug": "bunny-girl",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "jp": "青春ブタ野郎",
+    "blurb": "Shichirigahama sunsets ↔ the Fujisawa–Kamakura coast",
+    "coords": "35.3061° N, 139.5142° E",
+    "credit": {
+      "file": "File:Kamakura High School Front Level Crossing (53149277547).jpg",
+      "artist": "Dick Thomas Johnson",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kamakura_High_School_Front_Level_Crossing_(53149277547).jpg"
+    }
+  },
+  {
+    "slug": "free",
+    "title": "Free!",
+    "jp": "フリー！",
+    "blurb": "Iwatobi’s coves ↔ the Uradome coast, Iwami, Tottori",
+    "coords": "35.5960° N, 134.3360° E",
+    "credit": {
+      "file": "File:Uradome Coast Sengan-Matsushima.JPG",
+      "artist": "Hashi photo",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Uradome_Coast_Sengan-Matsushima.JPG"
+    }
+  },
+  {
+    "slug": "bocchi",
+    "title": "Bocchi the Rock!",
+    "jp": "ぼっち・ざ・ろっく！",
+    "blurb": "Kessoku Band’s haunts ↔ Shimokitazawa, Setagaya, Tokyo",
+    "coords": "35.6614° N, 139.6682° E",
+    "credit": {
+      "file": "File:Shimokitazawa Street 2015.jpg",
+      "artist": "Aw1805",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AShimokitazawa_Street_2015.jpg"
+    }
+  },
+  {
+    "slug": "wolf-children",
+    "title": "Wolf Children",
+    "jp": "おおかみこどもの雨と雪",
+    "blurb": "Hana’s mountain village ↔ Kamiichi under Tsurugi-dake, Toyama",
+    "coords": "36.6996° N, 137.3634° E",
+    "credit": {
+      "file": "File:Tsurugi-dake (15463262398).jpg",
+      "artist": "拓実 橋本",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ATsurugi-dake_%2815463262398%29.jpg"
+    }
+  },
+  {
+    "title": "Haikyu!!",
+    "jp": "ハイキュー!!",
+    "blurb": "Karasuno’s matches ↔ Sendai City Gymnasium, Miyagi",
+    "coords": "38.2554° N, 140.8520° E",
+    "slug": "haikyu",
+    "credit": {
+      "file": "File:Kamei Arena Sendai.jpg",
+      "artist": "広瀬川",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kamei_Arena_Sendai.jpg"
+    }
+  }
+]
