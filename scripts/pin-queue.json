@@ -1,77 +1,222 @@
 [
-  {"slug": "haruhi", "title": "The Melancholy of Haruhi Suzumiya", "jp": "涼宮ハルヒの憂鬱",
-   "blurb": "The SOS Brigade’s commute ↔ Nishinomiya-Kitaguchi, Hyōgo", "coords": "34.7457° N, 135.3575° E",
-   "queries": ["Nishinomiya-Kitaguchi Station", "Nishinomiya Hyogo"]},
-  {"slug": "your-name-hida", "title": "Your Name — Act II", "jp": "君の名は。",
-   "blurb": "Taki’s search for Itomori ↔ Hida-Furukawa Station, Gifu", "coords": "36.2378° N, 137.1856° E",
-   "queries": ["Hida-Furukawa Station", "Hida Furukawa Gifu"]},
-  {"slug": "initial-d", "title": "Initial D", "jp": "頭文字D",
-   "blurb": "Mount Akina’s hairpins ↔ Mount Haruna, Gunma", "coords": "36.4726° N, 138.8489° E",
-   "queries": ["Mount Haruna", "Haruna lake Gunma"]},
-  {"slug": "yuri-on-ice", "title": "Yuri!!! on Ice", "jp": "ユーリ!!! on ICE",
-   "blurb": "Hasetsu’s castle town ↔ Karatsu, Saga", "coords": "33.4539° N, 129.9772° E",
-   "queries": ["Karatsu Castle", "Karatsu Saga"]},
-  {"slug": "hanasaku", "title": "Hanasaku Iroha", "jp": "花咲くいろは",
-   "blurb": "Kissuisō inn ↔ Yuwaku Onsen, Kanazawa — its Bonbori Festival began in the anime", "coords": "36.4919° N, 136.7570° E",
-   "queries": ["Yuwaku Onsen", "Yuwaku Kanazawa"]},
-  {"slug": "golden-kamuy", "title": "Golden Kamuy", "jp": "ゴールデンカムイ",
-   "blurb": "Meiji-era treasure trail ↔ Otaru canal, Hokkaidō", "coords": "43.1994° N, 141.0016° E",
-   "queries": ["Otaru canal", "Otaru Hokkaido"]},
-  {"slug": "erased", "title": "Erased", "jp": "僕だけがいない街",
-   "blurb": "Satoru’s snowbound hometown ↔ Tomakomai, Hokkaidō", "coords": "42.6340° N, 141.6055° E",
-   "queries": ["Tomakomai Hokkaido winter", "Tomakomai"]},
-  {"slug": "marnie", "title": "When Marnie Was There", "jp": "思い出のマーニー",
-   "blurb": "The marsh house ↔ Kushiro wetlands, Hokkaidō", "coords": "43.0919° N, 144.4106° E",
-   "queries": ["Kushiro wetland", "Kushiro marsh"]},
-  {"slug": "sarazanmai", "title": "Sarazanmai", "jp": "さらざんまい",
-   "blurb": "The kappa’s Asakusa ↔ Kaminarimon, Tokyo", "coords": "35.7112° N, 139.7963° E",
-   "queries": ["Kaminarimon Asakusa", "Sensoji Kaminarimon"]},
-  {"slug": "lycoris", "title": "Lycoris Recoil", "jp": "リコリス・リコイル",
-   "blurb": "Café LycoReco’s neighbourhood ↔ Kyū-Iwasaki-tei, Higashi-Ueno", "coords": "35.7086° N, 139.7690° E",
-   "queries": ["Kyu-Iwasaki-tei Garden", "Kyu Iwasaki house Tokyo"]},
-  {"slug": "totoro", "title": "My Neighbor Totoro", "jp": "となりのトトロ",
-   "blurb": "Satsuki and Mei’s countryside ↔ Sayama Hills (“Totoro’s Forest”), Saitama", "coords": "35.7767° N, 139.4108° E",
-   "queries": ["Sayama Hills", "Totoro forest Sayama"]},
-  {"slug": "fireflies", "title": "Grave of the Fireflies", "jp": "火垂るの墓",
-   "blurb": "Seita and Setsuko’s riverside ↔ Shukugawa, Nishinomiya", "coords": "34.7404° N, 135.3320° E",
-   "queries": ["Shukugawa river", "Shukugawa Nishinomiya"]},
-  {"slug": "poppy-hill", "title": "From Up on Poppy Hill", "jp": "コクリコ坂から",
-   "blurb": "Umi’s harbour view ↔ Yokohama port, Kanagawa", "coords": "35.4437° N, 139.6503° E",
-   "queries": ["Yamashita Park Yokohama", "Yokohama harbour"]},
-  {"slug": "ocean-waves", "title": "Ocean Waves", "jp": "海がきこえる",
-   "blurb": "Taku’s hometown ↔ Kōchi, Shikoku", "coords": "33.5606° N, 133.5311° E",
-   "queries": ["Kochi Castle", "Kochi city Shikoku"]},
-  {"slug": "whisker-away", "title": "A Whisker Away", "jp": "泣きたい私は猫をかぶる",
-   "blurb": "Miyo’s pottery town ↔ Tokoname, Aichi", "coords": "34.8867° N, 136.8324° E",
-   "queries": ["Tokoname pottery footpath", "Tokoname Aichi"]},
-  {"slug": "wind-rises", "title": "The Wind Rises", "jp": "風立ちぬ",
-   "blurb": "Jirō’s summer retreat ↔ Karuizawa, Nagano", "coords": "36.3483° N, 138.5969° E",
-   "queries": ["Karuizawa Nagano", "Kumoba pond Karuizawa"]},
-  {"slug": "chunibyo", "title": "Love, Chunibyo & Other Delusions", "jp": "中二病でも恋がしたい！",
-   "blurb": "Rikka’s bridge vigil ↔ Lake Biwa Ōhashi, Ōtsu, Shiga", "coords": "35.1345° N, 135.9182° E",
-   "queries": ["Biwako Ohashi", "Lake Biwa bridge"]},
-  {"slug": "in-this-corner", "title": "In This Corner of the World", "jp": "この世界の片隅に",
-   "blurb": "Suzu’s wartime hills ↔ Kure, Hiroshima", "coords": "34.2493° N, 132.5657° E",
-   "queries": ["Kure Hiroshima port", "Kure city Hiroshima"]},
-  {"slug": "iroduku", "title": "Iroduku: The World in Colors", "jp": "色づく世界の明日から",
-   "blurb": "Hitomi’s magic-lit city ↔ Nagasaki", "coords": "32.7336° N, 129.8686° E",
-   "queries": ["Glover Garden Nagasaki", "Nagasaki city view"]},
-  {"slug": "yuru-yuri", "title": "Yuru Yuri", "jp": "ゆるゆり",
-   "blurb": "The Amusement Club’s town ↔ Takaoka, Toyama", "coords": "36.7465° N, 137.0117° E",
-   "queries": ["Takaoka Daibutsu", "Takaoka Toyama"]},
-  {"slug": "amanchu", "title": "Amanchu!", "jp": "あまんちゅ！",
-   "blurb": "Teko and Pikari’s dive coast ↔ Itō, Izu Peninsula", "coords": "34.9658° N, 139.0921° E",
-   "queries": ["Ito Shizuoka coast", "Izu Ito city"]},
-  {"slug": "zombie-land-saga", "title": "Zombie Land Saga", "jp": "ゾンビランドサガ",
-   "blurb": "Franchouchou’s home turf ↔ Saga City, Kyūshū", "coords": "33.2494° N, 130.2988° E",
-   "queries": ["Saga city", "Saga prefecture Japan"]},
-  {"slug": "toradora", "title": "Toradora!", "jp": "とらドラ！",
-   "blurb": "Ryūji and Taiga’s walk home ↔ Tamagawa-jōsui canal, Tokyo", "coords": "35.7280° N, 139.4770° E",
-   "queries": ["Tamagawa Josui", "Tamagawa Josui canal"]},
-  {"slug": "blue-period", "title": "Blue Period", "jp": "ブルーピリオド",
-   "blurb": "Yatora’s exam pilgrimage ↔ Ueno Park & Geidai, Tokyo", "coords": "35.7148° N, 139.7737° E",
-   "queries": ["Ueno Park Tokyo", "Tokyo University of the Arts"]},
-  {"slug": "shirobako", "title": "Shirobako", "jp": "SHIROBAKO",
-   "blurb": "Musashino Animation’s streets ↔ Musashino, Tokyo", "coords": "35.7022° N, 139.5609° E",
-   "queries": ["Musashino Tokyo", "Kichijoji street"]}
+  {
+    "slug": "golden-kamuy",
+    "title": "Golden Kamuy",
+    "jp": "ゴールデンカムイ",
+    "blurb": "Meiji-era treasure trail ↔ Otaru canal, Hokkaidō",
+    "coords": "43.1994° N, 141.0016° E",
+    "queries": [
+      "Otaru canal",
+      "Otaru Hokkaido"
+    ]
+  },
+  {
+    "slug": "erased",
+    "title": "Erased",
+    "jp": "僕だけがいない街",
+    "blurb": "Satoru’s snowbound hometown ↔ Tomakomai, Hokkaidō",
+    "coords": "42.6340° N, 141.6055° E",
+    "queries": [
+      "Tomakomai Hokkaido winter",
+      "Tomakomai"
+    ]
+  },
+  {
+    "slug": "marnie",
+    "title": "When Marnie Was There",
+    "jp": "思い出のマーニー",
+    "blurb": "The marsh house ↔ Kushiro wetlands, Hokkaidō",
+    "coords": "43.0919° N, 144.4106° E",
+    "queries": [
+      "Kushiro wetland",
+      "Kushiro marsh"
+    ]
+  },
+  {
+    "slug": "sarazanmai",
+    "title": "Sarazanmai",
+    "jp": "さらざんまい",
+    "blurb": "The kappa’s Asakusa ↔ Kaminarimon, Tokyo",
+    "coords": "35.7112° N, 139.7963° E",
+    "queries": [
+      "Kaminarimon Asakusa",
+      "Sensoji Kaminarimon"
+    ]
+  },
+  {
+    "slug": "lycoris",
+    "title": "Lycoris Recoil",
+    "jp": "リコリス・リコイル",
+    "blurb": "Café LycoReco’s neighbourhood ↔ Kyū-Iwasaki-tei, Higashi-Ueno",
+    "coords": "35.7086° N, 139.7690° E",
+    "queries": [
+      "Kyu-Iwasaki-tei Garden",
+      "Kyu Iwasaki house Tokyo"
+    ]
+  },
+  {
+    "slug": "totoro",
+    "title": "My Neighbor Totoro",
+    "jp": "となりのトトロ",
+    "blurb": "Satsuki and Mei’s countryside ↔ Sayama Hills (“Totoro’s Forest”), Saitama",
+    "coords": "35.7767° N, 139.4108° E",
+    "queries": [
+      "Sayama Hills",
+      "Totoro forest Sayama"
+    ]
+  },
+  {
+    "slug": "fireflies",
+    "title": "Grave of the Fireflies",
+    "jp": "火垂るの墓",
+    "blurb": "Seita and Setsuko’s riverside ↔ Shukugawa, Nishinomiya",
+    "coords": "34.7404° N, 135.3320° E",
+    "queries": [
+      "Shukugawa river",
+      "Shukugawa Nishinomiya"
+    ]
+  },
+  {
+    "slug": "poppy-hill",
+    "title": "From Up on Poppy Hill",
+    "jp": "コクリコ坂から",
+    "blurb": "Umi’s harbour view ↔ Yokohama port, Kanagawa",
+    "coords": "35.4437° N, 139.6503° E",
+    "queries": [
+      "Yamashita Park Yokohama",
+      "Yokohama harbour"
+    ]
+  },
+  {
+    "slug": "ocean-waves",
+    "title": "Ocean Waves",
+    "jp": "海がきこえる",
+    "blurb": "Taku’s hometown ↔ Kōchi, Shikoku",
+    "coords": "33.5606° N, 133.5311° E",
+    "queries": [
+      "Kochi Castle",
+      "Kochi city Shikoku"
+    ]
+  },
+  {
+    "slug": "whisker-away",
+    "title": "A Whisker Away",
+    "jp": "泣きたい私は猫をかぶる",
+    "blurb": "Miyo’s pottery town ↔ Tokoname, Aichi",
+    "coords": "34.8867° N, 136.8324° E",
+    "queries": [
+      "Tokoname pottery footpath",
+      "Tokoname Aichi"
+    ]
+  },
+  {
+    "slug": "wind-rises",
+    "title": "The Wind Rises",
+    "jp": "風立ちぬ",
+    "blurb": "Jirō’s summer retreat ↔ Karuizawa, Nagano",
+    "coords": "36.3483° N, 138.5969° E",
+    "queries": [
+      "Karuizawa Nagano",
+      "Kumoba pond Karuizawa"
+    ]
+  },
+  {
+    "slug": "chunibyo",
+    "title": "Love, Chunibyo & Other Delusions",
+    "jp": "中二病でも恋がしたい！",
+    "blurb": "Rikka’s bridge vigil ↔ Lake Biwa Ōhashi, Ōtsu, Shiga",
+    "coords": "35.1345° N, 135.9182° E",
+    "queries": [
+      "Biwako Ohashi",
+      "Lake Biwa bridge"
+    ]
+  },
+  {
+    "slug": "in-this-corner",
+    "title": "In This Corner of the World",
+    "jp": "この世界の片隅に",
+    "blurb": "Suzu’s wartime hills ↔ Kure, Hiroshima",
+    "coords": "34.2493° N, 132.5657° E",
+    "queries": [
+      "Kure Hiroshima port",
+      "Kure city Hiroshima"
+    ]
+  },
+  {
+    "slug": "iroduku",
+    "title": "Iroduku: The World in Colors",
+    "jp": "色づく世界の明日から",
+    "blurb": "Hitomi’s magic-lit city ↔ Nagasaki",
+    "coords": "32.7336° N, 129.8686° E",
+    "queries": [
+      "Glover Garden Nagasaki",
+      "Nagasaki city view"
+    ]
+  },
+  {
+    "slug": "yuru-yuri",
+    "title": "Yuru Yuri",
+    "jp": "ゆるゆり",
+    "blurb": "The Amusement Club’s town ↔ Takaoka, Toyama",
+    "coords": "36.7465° N, 137.0117° E",
+    "queries": [
+      "Takaoka Daibutsu",
+      "Takaoka Toyama"
+    ]
+  },
+  {
+    "slug": "amanchu",
+    "title": "Amanchu!",
+    "jp": "あまんちゅ！",
+    "blurb": "Teko and Pikari’s dive coast ↔ Itō, Izu Peninsula",
+    "coords": "34.9658° N, 139.0921° E",
+    "queries": [
+      "Ito Shizuoka coast",
+      "Izu Ito city"
+    ]
+  },
+  {
+    "slug": "zombie-land-saga",
+    "title": "Zombie Land Saga",
+    "jp": "ゾンビランドサガ",
+    "blurb": "Franchouchou’s home turf ↔ Saga City, Kyūshū",
+    "coords": "33.2494° N, 130.2988° E",
+    "queries": [
+      "Saga city",
+      "Saga prefecture Japan"
+    ]
+  },
+  {
+    "slug": "toradora",
+    "title": "Toradora!",
+    "jp": "とらドラ！",
+    "blurb": "Ryūji and Taiga’s walk home ↔ Tamagawa-jōsui canal, Tokyo",
+    "coords": "35.7280° N, 139.4770° E",
+    "queries": [
+      "Tamagawa Josui",
+      "Tamagawa Josui canal"
+    ]
+  },
+  {
+    "slug": "blue-period",
+    "title": "Blue Period",
+    "jp": "ブルーピリオド",
+    "blurb": "Yatora’s exam pilgrimage ↔ Ueno Park & Geidai, Tokyo",
+    "coords": "35.7148° N, 139.7737° E",
+    "queries": [
+      "Ueno Park Tokyo",
+      "Tokyo University of the Arts"
+    ]
+  },
+  {
+    "slug": "shirobako",
+    "title": "Shirobako",
+    "jp": "SHIROBAKO",
+    "blurb": "Musashino Animation’s streets ↔ Musashino, Tokyo",
+    "coords": "35.7022° N, 139.5609° E",
+    "queries": [
+      "Musashino Tokyo",
+      "Kichijoji street"
+    ]
+  }
 ]

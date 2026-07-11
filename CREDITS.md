@@ -55,25 +55,17 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Bocchi the Rock! — Shimokitazawa, Setagaya, Tokyo | [Shimokitazawa Street 2015.jpg](https://commons.wikimedia.org/wiki/File%3AShimokitazawa_Street_2015.jpg) | Aw1805 | CC BY-SA 4.0 |
 | Wolf Children — Kamiichi under Tsurugi-dake, Toyama | [Tsurugi-dake (15463262398).jpg](https://commons.wikimedia.org/wiki/File%3ATsurugi-dake_%2815463262398%29.jpg) | 拓実 橋本 | CC BY 2.0 |
 | Haikyu!! — Sendai City Gymnasium, Miyagi | [Kamei Arena Sendai.jpg](https://commons.wikimedia.org/wiki/File:Kamei_Arena_Sendai.jpg) | 広瀬川 | CC0 |
+| The Melancholy of Haruhi Suzumiya — Nishinomiya-Kitaguchi, Hyōgo | [Nishinomiya-kitaguchi station1.JPG](https://commons.wikimedia.org/wiki/File:Nishinomiya-kitaguchi_station1.JPG) | 本屋 | CC BY-SA 3.0 |
+| Your Name — Act II — Hida-Furukawa Station, Gifu | [JR Hida-Furukawa Station ac (1).jpg](https://commons.wikimedia.org/wiki/File:JR_Hida-Furukawa_Station_ac_(1).jpg) | Asturio Cantabrio | CC BY-SA 4.0 |
+| Initial D — Mount Haruna, Gunma | [Mount Haruna view from Hokkitsu Onsen Tachibana no sato Shiroyama.jpg](https://commons.wikimedia.org/wiki/File:Mount_Haruna_view_from_Hokkitsu_Onsen_Tachibana_no_sato_Shiroyama.jpg) | photo: Qurren (talk) Taken with Canon PowerShot G9 X | CC BY-SA 4.0 |
+| Yuri!!! on Ice — Karatsu, Saga | [Karatsujo.jpg](https://commons.wikimedia.org/wiki/File:Karatsujo.jpg) | unknown | Public domain |
+| Hanasaku Iroha — Yuwaku Onsen, Kanazawa — its Bonbori Festival began in the anime | [131109 Yuwaku Onsen Kanazawa Ishikawa pref Japan05s5.jpg](https://commons.wikimedia.org/wiki/File:131109_Yuwaku_Onsen_Kanazawa_Ishikawa_pref_Japan05s5.jpg) | 663highland | CC BY 2.5 |
 
-## Illustrated frames
+## Anime frames
 
-Every “frame” side you see — on the six featured scenes and on all archive
-cards — is **original vector illustration** made for this project
-(`public/js/illustrations.js`, `public/index.html` scene templates), not a
-reproduction of any film. Actual anime stills are copyrighted and are not
-fetched, generated, or distributed by this repository or its automation.
-
-Archive cards use one of ~15 reusable “archetype” illustrations (shrine,
-harbor, bridge, snow-village, castle, forest, and so on) matched to each
-location's real-world setting — see the `archetype` field in
-`public/img/pins.json`. The eight earliest cards (Demon Slayer, Lucky Star,
-K-On!, 5 Centimeters per Second, Weathering With You, Attack on Titan, Ponyo,
-Laid-Back Camp) instead carry a piece drawn specifically for them.
-
-If you own screenshots you're personally comfortable using, you can drop them
-in at `public/img/frames/<slug>.jpg` for the six featured scenes
-(`your-name`, `slam-dunk`, `garden-of-words`, `spirited-away`, `steins-gate`,
-`silent-voice`) and the site will use them in place of the illustration —
-that is a choice for you to make about your own copy of the site, not
-something this project does on its own.
+The “frame” side of each featured scene is **original SVG artwork interpreting
+the shot** — actual film stills are copyrighted and are not distributed with
+this repository. If you own screenshots you're comfortable using, drop them in
+as `public/img/frames/<slug>.jpg` (`your-name`, `slam-dunk`, `garden-of-words`,
+`spirited-away`, `steins-gate`, `silent-voice`) and the site will use them
+automatically.

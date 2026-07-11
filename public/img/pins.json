@@ -488,5 +488,75 @@
       "source": "https://commons.wikimedia.org/wiki/File:Kamei_Arena_Sendai.jpg"
     },
     "archetype": "hillside-town"
+  },
+  {
+    "slug": "haruhi",
+    "title": "The Melancholy of Haruhi Suzumiya",
+    "jp": "涼宮ハルヒの憂鬱",
+    "blurb": "The SOS Brigade’s commute ↔ Nishinomiya-Kitaguchi, Hyōgo",
+    "coords": "34.7457° N, 135.3575° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Nishinomiya-kitaguchi station1.JPG",
+      "artist": "本屋",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nishinomiya-kitaguchi_station1.JPG"
+    }
+  },
+  {
+    "slug": "your-name-hida",
+    "title": "Your Name — Act II",
+    "jp": "君の名は。",
+    "blurb": "Taki’s search for Itomori ↔ Hida-Furukawa Station, Gifu",
+    "coords": "36.2378° N, 137.1856° E",
+    "archetype": "crossing",
+    "credit": {
+      "file": "File:JR Hida-Furukawa Station ac (1).jpg",
+      "artist": "Asturio Cantabrio",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:JR_Hida-Furukawa_Station_ac_(1).jpg"
+    }
+  },
+  {
+    "slug": "initial-d",
+    "title": "Initial D",
+    "jp": "頭文字D",
+    "blurb": "Mount Akina’s hairpins ↔ Mount Haruna, Gunma",
+    "coords": "36.4726° N, 138.8489° E",
+    "archetype": "mountain-lake",
+    "credit": {
+      "file": "File:Mount Haruna view from Hokkitsu Onsen Tachibana no sato Shiroyama.jpg",
+      "artist": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mount_Haruna_view_from_Hokkitsu_Onsen_Tachibana_no_sato_Shiroyama.jpg"
+    }
+  },
+  {
+    "slug": "yuri-on-ice",
+    "title": "Yuri!!! on Ice",
+    "jp": "ユーリ!!! on ICE",
+    "blurb": "Hasetsu’s castle town ↔ Karatsu, Saga",
+    "coords": "33.4539° N, 129.9772° E",
+    "archetype": "castle",
+    "credit": {
+      "file": "File:Karatsujo.jpg",
+      "artist": "unknown",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Karatsujo.jpg"
+    }
+  },
+  {
+    "slug": "hanasaku",
+    "title": "Hanasaku Iroha",
+    "jp": "花咲くいろは",
+    "blurb": "Kissuisō inn ↔ Yuwaku Onsen, Kanazawa — its Bonbori Festival began in the anime",
+    "coords": "36.4919° N, 136.7570° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:131109 Yuwaku Onsen Kanazawa Ishikawa pref Japan05s5.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:131109_Yuwaku_Onsen_Kanazawa_Ishikawa_pref_Japan05s5.jpg"
+    }
   }
 ]
