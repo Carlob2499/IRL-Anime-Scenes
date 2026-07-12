@@ -558,5 +558,75 @@
       "license": "CC BY 2.5",
       "source": "https://commons.wikimedia.org/wiki/File:131109_Yuwaku_Onsen_Kanazawa_Ishikawa_pref_Japan05s5.jpg"
     }
+  },
+  {
+    "slug": "golden-kamuy",
+    "title": "Golden Kamuy",
+    "jp": "ゴールデンカムイ",
+    "blurb": "Meiji-era treasure trail ↔ Otaru canal, Hokkaidō",
+    "coords": "43.1994° N, 141.0016° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Otaru Canal HDR1.jpg",
+      "artist": "Tan Wei Liang Byorn",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Otaru_Canal_HDR1.jpg"
+    }
+  },
+  {
+    "slug": "erased",
+    "title": "Erased",
+    "jp": "僕だけがいない街",
+    "blurb": "Satoru’s snowbound hometown ↔ Tomakomai, Hokkaidō",
+    "coords": "42.6340° N, 141.6055° E",
+    "archetype": "snow-village",
+    "credit": {
+      "file": "File:Tomakomai from an aeroplane.jpg",
+      "artist": "Prosperosity",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomakomai_from_an_aeroplane.jpg"
+    }
+  },
+  {
+    "slug": "marnie",
+    "title": "When Marnie Was There",
+    "jp": "思い出のマーニー",
+    "blurb": "The marsh house ↔ Kushiro wetlands, Hokkaidō",
+    "coords": "43.0919° N, 144.4106° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Kushiro Marsh, Shibecha.jpg",
+      "artist": "Kzaral",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kushiro_Marsh,_Shibecha.jpg"
+    }
+  },
+  {
+    "slug": "sarazanmai",
+    "title": "Sarazanmai",
+    "jp": "さらざんまい",
+    "blurb": "The kappa’s Asakusa ↔ Kaminarimon, Tokyo",
+    "coords": "35.7112° N, 139.7963° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:The Kaminarimon at Asakusa; November 2008.jpg",
+      "artist": "MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kaminarimon_at_Asakusa;_November_2008.jpg"
+    }
+  },
+  {
+    "slug": "lycoris",
+    "title": "Lycoris Recoil",
+    "jp": "リコリス・リコイル",
+    "blurb": "Café LycoReco’s neighbourhood ↔ Kyū-Iwasaki-tei, Higashi-Ueno",
+    "coords": "35.7086° N, 139.7690° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Kyu Iwasaki Tei Garden (180139793).jpeg",
+      "artist": "Takuya Matsuyama",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kyu_Iwasaki_Tei_Garden_(180139793).jpeg"
+    }
   }
 ]

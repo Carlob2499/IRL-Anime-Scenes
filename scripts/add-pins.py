@@ -94,14 +94,27 @@ def regenerate_credits(pins):
         f"{p['credit']['artist']} | {p['credit']['license']} |"
         for p in pins)
     tail = """
-## Anime frames
+## Illustrated frames
 
-The “frame” side of each featured scene is **original SVG artwork interpreting
-the shot** — actual film stills are copyrighted and are not distributed with
-this repository. If you own screenshots you're comfortable using, drop them in
-as `public/img/frames/<slug>.jpg` (`your-name`, `slam-dunk`, `garden-of-words`,
-`spirited-away`, `steins-gate`, `silent-voice`) and the site will use them
-automatically.
+Every "frame" side you see — on the six featured scenes and on all archive
+cards — is **original vector illustration** made for this project
+(`public/js/illustrations.js`, `public/index.html` scene templates), not a
+reproduction of any film. Actual anime stills are copyrighted and are not
+fetched, generated, or distributed by this repository or its automation.
+
+Archive cards use one of ~15 reusable "archetype" illustrations (shrine,
+harbor, bridge, snow-village, castle, forest, and so on) matched to each
+location's real-world setting — see the `archetype` field in
+`public/img/pins.json`. The eight earliest cards (Demon Slayer, Lucky Star,
+K-On!, 5 Centimeters per Second, Weathering With You, Attack on Titan, Ponyo,
+Laid-Back Camp) instead carry a piece drawn specifically for them.
+
+If you own screenshots you're personally comfortable using, you can drop them
+in at `public/img/frames/<slug>.jpg` for the six featured scenes
+(`your-name`, `slam-dunk`, `garden-of-words`, `spirited-away`, `steins-gate`,
+`silent-voice`) and the site will use them in place of the illustration —
+that is a choice for you to make about your own copy of the site, not
+something this project does on its own.
 """
     open(CREDITS, "w").write(
         head + "## Archive pins (`public/img/cards/`, data in `public/img/pins.json`)\n\n"
