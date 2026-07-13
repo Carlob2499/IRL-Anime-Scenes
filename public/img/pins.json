@@ -628,5 +628,75 @@
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kyu_Iwasaki_Tei_Garden_(180139793).jpeg"
     }
+  },
+  {
+    "slug": "totoro",
+    "title": "My Neighbor Totoro",
+    "jp": "となりのトトロ",
+    "blurb": "Satsuki and Mei’s countryside ↔ Sayama Hills (“Totoro’s Forest”), Saitama",
+    "coords": "35.7767° N, 139.4108° E",
+    "archetype": "forest",
+    "credit": {
+      "file": "File:Sayama-from-rokudousan.JPG",
+      "artist": "Nyao148",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sayama-from-rokudousan.JPG"
+    }
+  },
+  {
+    "slug": "fireflies",
+    "title": "Grave of the Fireflies",
+    "jp": "火垂るの墓",
+    "blurb": "Seita and Setsuko’s riverside ↔ Shukugawa, Nishinomiya",
+    "coords": "34.7404° N, 135.3320° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:香櫨園駅のテラスからの景色.jpg",
+      "artist": "小田急4000系ファン",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%AB%A8%E5%9C%92%E9%A7%85%E3%81%AE%E3%83%86%E3%83%A9%E3%82%B9%E3%81%8B%E3%82%89%E3%81%AE%E6%99%AF%E8%89%B2.jpg"
+    }
+  },
+  {
+    "slug": "poppy-hill",
+    "title": "From Up on Poppy Hill",
+    "jp": "コクリコ坂から",
+    "blurb": "Umi’s harbour view ↔ Yokohama port, Kanagawa",
+    "coords": "35.4437° N, 139.6503° E",
+    "archetype": "harbor",
+    "credit": {
+      "file": "File:Yokohama Yamashita Park and Marine Tower.jpg",
+      "artist": "Tokyo538",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yokohama_Yamashita_Park_and_Marine_Tower.jpg"
+    }
+  },
+  {
+    "slug": "ocean-waves",
+    "title": "Ocean Waves",
+    "jp": "海がきこえる",
+    "blurb": "Taku’s hometown ↔ Kōchi, Shikoku",
+    "coords": "33.5606° N, 133.5311° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Kochi Castle08s3872.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Kochi_Castle08s3872.jpg"
+    }
+  },
+  {
+    "slug": "whisker-away",
+    "title": "A Whisker Away",
+    "jp": "泣きたい私は猫をかぶる",
+    "blurb": "Miyo’s pottery town ↔ Tokoname, Aichi",
+    "coords": "34.8867° N, 136.8324° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Yakimono-sanpomichi Tokoname (Aichi) 22.jpg",
+      "artist": "Hyppolyte de Saint-Rambert",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yakimono-sanpomichi_Tokoname_(Aichi)_22.jpg"
+    }
   }
 ]

@@ -65,6 +65,11 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | When Marnie Was There — Kushiro wetlands, Hokkaidō | [Kushiro Marsh, Shibecha.jpg](https://commons.wikimedia.org/wiki/File:Kushiro_Marsh,_Shibecha.jpg) | Kzaral | CC BY 2.0 |
 | Sarazanmai — Kaminarimon, Tokyo | [The Kaminarimon at Asakusa; November 2008.jpg](https://commons.wikimedia.org/wiki/File:The_Kaminarimon_at_Asakusa;_November_2008.jpg) | MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN | CC BY 2.0 |
 | Lycoris Recoil — Kyū-Iwasaki-tei, Higashi-Ueno | [Kyu Iwasaki Tei Garden (180139793).jpeg](https://commons.wikimedia.org/wiki/File:Kyu_Iwasaki_Tei_Garden_(180139793).jpeg) | Takuya Matsuyama | CC BY 3.0 |
+| My Neighbor Totoro — Sayama Hills (“Totoro’s Forest”), Saitama | [Sayama-from-rokudousan.JPG](https://commons.wikimedia.org/wiki/File:Sayama-from-rokudousan.JPG) | Nyao148 | CC BY-SA 3.0 |
+| Grave of the Fireflies — Shukugawa, Nishinomiya | [香櫨園駅のテラスからの景色.jpg](https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%AB%A8%E5%9C%92%E9%A7%85%E3%81%AE%E3%83%86%E3%83%A9%E3%82%B9%E3%81%8B%E3%82%89%E3%81%AE%E6%99%AF%E8%89%B2.jpg) | 小田急4000系ファン | CC0 |
+| From Up on Poppy Hill — Yokohama port, Kanagawa | [Yamashita Park 1930s.jpg](https://commons.wikimedia.org/wiki/File:Yamashita_Park_1930s.jpg) | 横浜市震災記念館 | Public domain |
+| Ocean Waves — Kōchi, Shikoku | [Kochi Castle08s3872.jpg](https://commons.wikimedia.org/wiki/File:Kochi_Castle08s3872.jpg) | 663highland | CC BY 2.5 |
+| A Whisker Away — Tokoname, Aichi | [Yakimono-sanpomichi Tokoname (Aichi) 22.jpg](https://commons.wikimedia.org/wiki/File:Yakimono-sanpomichi_Tokoname_(Aichi)_22.jpg) | Hyppolyte de Saint-Rambert | CC BY 4.0 |
 
 ## Illustrated frames
 
