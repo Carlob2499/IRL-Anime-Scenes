@@ -53,5 +53,159 @@
       "Musashino Tokyo",
       "Kichijoji street"
     ]
+  },
+  {
+    "slug": "digimon-odaiba",
+    "title": "Digimon Adventure",
+    "jp": "デジモンアドベンチャー",
+    "blurb": "Odaiba's digital gate ↔ Rainbow Bridge & Odaiba waterfront, Tokyo",
+    "coords": "35.6267° N, 139.7737° E",
+    "queries": [
+      "Rainbow Bridge Odaiba",
+      "Odaiba waterfront Tokyo"
+    ]
+  },
+  {
+    "slug": "nichijou",
+    "title": "Nichijou",
+    "jp": "日常",
+    "blurb": "Sakuragaoka's everyday ↔ Musashi-Koganei, Tokyo",
+    "coords": "35.7009° N, 139.5142° E",
+    "queries": [
+      "Musashi-Koganei Station",
+      "Koganei Tokyo street"
+    ]
+  },
+  {
+    "slug": "yowamushi-pedal",
+    "title": "Yowamushi Pedal",
+    "jp": "弱虫ペダル",
+    "blurb": "Onoda's coastal ride ↔ Choshi Electric Railway, Chiba",
+    "coords": "35.7326° N, 140.8563° E",
+    "queries": [
+      "Choshi Electric Railway",
+      "Choshi Chiba coast"
+    ]
+  },
+  {
+    "slug": "anthem-heart",
+    "title": "The Anthem of the Heart",
+    "jp": "心が叫びたがってるんだ",
+    "blurb": "Jun's outdoor stage ↔ Chichibu Muse Park amphitheatre, Saitama",
+    "coords": "35.9989° N, 139.1147° E",
+    "queries": [
+      "Chichibu Muse Park",
+      "Muse Park amphitheatre Chichibu"
+    ]
+  },
+  {
+    "slug": "wake-up-girls",
+    "title": "Wake Up, Girls!",
+    "jp": "Wake Up, Girls!",
+    "blurb": "The idol group's home turf ↔ Jōzenji-dōri avenue, Sendai",
+    "coords": "38.2632° N, 140.8747° E",
+    "queries": [
+      "Jozenji-dori Sendai",
+      "Jozenji street Sendai"
+    ]
+  },
+  {
+    "slug": "only-yesterday",
+    "title": "Only Yesterday",
+    "jp": "おもひでぽろぽろ",
+    "blurb": "Taeko's safflower fields ↔ Takase, Yamagata",
+    "coords": "38.3040° N, 140.2760° E",
+    "queries": [
+      "Yamagata safflower field",
+      "Takase Yamagata countryside"
+    ]
+  },
+  {
+    "slug": "pom-poko",
+    "title": "Pom Poko",
+    "jp": "平成狸合戦ぽんぽこ",
+    "blurb": "The tanuki's vanishing hillside ↔ Tama New Town, Tokyo",
+    "coords": "35.6339° N, 139.4386° E",
+    "queries": [
+      "Tama New Town",
+      "Tama Hills Tokyo"
+    ]
+  },
+  {
+    "slug": "bungo-stray-dogs",
+    "title": "Bungo Stray Dogs",
+    "jp": "文豪ストレイドッグス",
+    "blurb": "The Armed Detective Agency's port ↔ Yokohama Red Brick Warehouse",
+    "coords": "35.4525° N, 139.6425° E",
+    "queries": [
+      "Yokohama Red Brick Warehouse",
+      "Akarenga Soko Yokohama"
+    ]
+  },
+  {
+    "slug": "chihayafuru",
+    "title": "Chihayafuru",
+    "jp": "ちはやふる",
+    "blurb": "The karuta finals ↔ Ōmi Jingū Shrine, Ōtsu, Shiga",
+    "coords": "35.0489° N, 135.8747° E",
+    "queries": [
+      "Omi Jingu Shrine",
+      "Omi Jingu Otsu"
+    ]
+  },
+  {
+    "slug": "kids-slope",
+    "title": "Kids on the Slope",
+    "jp": "坂道のアポロン",
+    "blurb": "Sentarō and Kaoru's port town ↔ Sasebo, Nagasaki",
+    "coords": "33.1592° N, 129.7228° E",
+    "queries": [
+      "Sasebo Nagasaki port",
+      "Sasebo city"
+    ]
+  },
+  {
+    "slug": "silver-spoon",
+    "title": "Silver Spoon",
+    "jp": "銀の匙 Silver Spoon",
+    "blurb": "Ōezo Agricultural High ↔ Obihiro, Tokachi, Hokkaidō",
+    "coords": "42.9152° N, 143.1958° E",
+    "queries": [
+      "Obihiro Tokachi farmland",
+      "Obihiro Hokkaido"
+    ]
+  },
+  {
+    "slug": "ashita-no-joe",
+    "title": "Ashita no Joe",
+    "jp": "あしたのジョー",
+    "blurb": "Joe's boxing gym district ↔ Namidabashi, San'ya, Tokyo",
+    "coords": "35.7280° N, 139.7936° E",
+    "queries": [
+      "Namidabashi Tokyo",
+      "San'ya Taito Tokyo"
+    ]
+  },
+  {
+    "slug": "tokyo-godfathers",
+    "title": "Tokyo Godfathers",
+    "jp": "東京ゴッドファーザーズ",
+    "blurb": "A Christmas Eve in Shinjuku ↔ Golden Gai, Tokyo",
+    "coords": "35.6947° N, 139.7038° E",
+    "queries": [
+      "Golden Gai Shinjuku",
+      "Shinjuku Golden Gai alley"
+    ]
+  },
+  {
+    "slug": "clannad",
+    "title": "Clannad",
+    "jp": "クラナド",
+    "blurb": "Tomoya and Nagisa's hillside town ↔ Ninomiya, Kanagawa",
+    "coords": "35.3010° N, 139.2540° E",
+    "queries": [
+      "Ninomiya Kanagawa coast",
+      "Ninomiya station Kanagawa"
+    ]
   }
 ]
