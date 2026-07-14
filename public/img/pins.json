@@ -698,5 +698,75 @@
       "license": "CC BY 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Yakimono-sanpomichi_Tokoname_(Aichi)_22.jpg"
     }
+  },
+  {
+    "slug": "wind-rises",
+    "title": "The Wind Rises",
+    "jp": "風立ちぬ",
+    "blurb": "Jirō’s summer retreat ↔ Karuizawa, Nagano",
+    "coords": "36.3483° N, 138.5969° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Naka-Karuizawa & Mount Asama.jpg",
+      "artist": "Charlie fong",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Naka-Karuizawa_%26_Mount_Asama.jpg"
+    }
+  },
+  {
+    "slug": "chunibyo",
+    "title": "Love, Chunibyo & Other Delusions",
+    "jp": "中二病でも恋がしたい！",
+    "blurb": "Rikka’s bridge vigil ↔ Lake Biwa Ōhashi, Ōtsu, Shiga",
+    "coords": "35.1345° N, 135.9182° E",
+    "archetype": "mountain-lake",
+    "credit": {
+      "file": "File:Lower side in Biwako-Ohashi Bridge 201102.jpg",
+      "artist": "Si-take. at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lower_side_in_Biwako-Ohashi_Bridge_201102.jpg"
+    }
+  },
+  {
+    "slug": "in-this-corner",
+    "title": "In This Corner of the World",
+    "jp": "この世界の片隅に",
+    "blurb": "Suzu’s wartime hills ↔ Kure, Hiroshima",
+    "coords": "34.2493° N, 132.5657° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Port of Kure in Hiroshima 呉港 20191130.jpg",
+      "artist": "Kanesue",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Port_of_Kure_in_Hiroshima_%E5%91%89%E6%B8%AF_20191130.jpg"
+    }
+  },
+  {
+    "slug": "iroduku",
+    "title": "Iroduku: The World in Colors",
+    "jp": "色づく世界の明日から",
+    "blurb": "Hitomi’s magic-lit city ↔ Nagasaki",
+    "coords": "32.7336° N, 129.8686° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Nagasaki-Glover-Garden-5415.jpg",
+      "artist": "Fg2",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Nagasaki-Glover-Garden-5415.jpg"
+    }
+  },
+  {
+    "slug": "yuru-yuri",
+    "title": "Yuru Yuri",
+    "jp": "ゆるゆり",
+    "blurb": "The Amusement Club’s town ↔ Takaoka, Toyama",
+    "coords": "36.7465° N, 137.0117° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Takaoka Daibutsu 2011-07-15 01.jpg",
+      "artist": "柑橘類 (talk)",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_2011-07-15_01.jpg"
+    }
   }
 ]

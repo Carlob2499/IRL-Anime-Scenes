@@ -67,9 +67,14 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Lycoris Recoil — Kyū-Iwasaki-tei, Higashi-Ueno | [Kyu Iwasaki Tei Garden (180139793).jpeg](https://commons.wikimedia.org/wiki/File:Kyu_Iwasaki_Tei_Garden_(180139793).jpeg) | Takuya Matsuyama | CC BY 3.0 |
 | My Neighbor Totoro — Sayama Hills (“Totoro’s Forest”), Saitama | [Sayama-from-rokudousan.JPG](https://commons.wikimedia.org/wiki/File:Sayama-from-rokudousan.JPG) | Nyao148 | CC BY-SA 3.0 |
 | Grave of the Fireflies — Shukugawa, Nishinomiya | [香櫨園駅のテラスからの景色.jpg](https://commons.wikimedia.org/wiki/File:%E9%A6%99%E6%AB%A8%E5%9C%92%E9%A7%85%E3%81%AE%E3%83%86%E3%83%A9%E3%82%B9%E3%81%8B%E3%82%89%E3%81%AE%E6%99%AF%E8%89%B2.jpg) | 小田急4000系ファン | CC0 |
-| From Up on Poppy Hill — Yokohama port, Kanagawa | [Yamashita Park 1930s.jpg](https://commons.wikimedia.org/wiki/File:Yamashita_Park_1930s.jpg) | 横浜市震災記念館 | Public domain |
+| From Up on Poppy Hill — Yokohama port, Kanagawa | [Yokohama Yamashita Park and Marine Tower.jpg](https://commons.wikimedia.org/wiki/File:Yokohama_Yamashita_Park_and_Marine_Tower.jpg) | Tokyo538 | CC0 |
 | Ocean Waves — Kōchi, Shikoku | [Kochi Castle08s3872.jpg](https://commons.wikimedia.org/wiki/File:Kochi_Castle08s3872.jpg) | 663highland | CC BY 2.5 |
 | A Whisker Away — Tokoname, Aichi | [Yakimono-sanpomichi Tokoname (Aichi) 22.jpg](https://commons.wikimedia.org/wiki/File:Yakimono-sanpomichi_Tokoname_(Aichi)_22.jpg) | Hyppolyte de Saint-Rambert | CC BY 4.0 |
+| The Wind Rises — Karuizawa, Nagano | [Naka-Karuizawa & Mount Asama.jpg](https://commons.wikimedia.org/wiki/File:Naka-Karuizawa_%26_Mount_Asama.jpg) | Charlie fong | CC BY-SA 4.0 |
+| Love, Chunibyo & Other Delusions — Lake Biwa Ōhashi, Ōtsu, Shiga | [Lower side in Biwako-Ohashi Bridge 201102.jpg](https://commons.wikimedia.org/wiki/File:Lower_side_in_Biwako-Ohashi_Bridge_201102.jpg) | Si-take. at Japanese Wikipedia | CC BY-SA 3.0 |
+| In This Corner of the World — Kure, Hiroshima | [Port of Kure in Hiroshima 呉港 20191130.jpg](https://commons.wikimedia.org/wiki/File:Port_of_Kure_in_Hiroshima_%E5%91%89%E6%B8%AF_20191130.jpg) | Kanesue | CC BY 2.0 |
+| Iroduku: The World in Colors — Nagasaki | [Nagasaki-Glover-Garden-5415.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki-Glover-Garden-5415.jpg) | Fg2 | Public domain |
+| Yuru Yuri — Takaoka, Toyama | [Takaoka Daibutsu 2011-07-15 01.jpg](https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_2011-07-15_01.jpg) | 柑橘類 (talk) | CC BY-SA 3.0 |
 
 ## Illustrated frames
 
