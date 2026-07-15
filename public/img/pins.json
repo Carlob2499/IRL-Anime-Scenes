@@ -768,5 +768,75 @@
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_2011-07-15_01.jpg"
     }
+  },
+  {
+    "slug": "amanchu",
+    "title": "Amanchu!",
+    "jp": "あまんちゅ！",
+    "blurb": "Teko and Pikari’s dive coast ↔ Itō, Izu Peninsula",
+    "coords": "34.9658° N, 139.0921° E",
+    "archetype": "beach",
+    "credit": {
+      "file": "File:Futo, Ito, Shizuoka Prefecture 413-0231, Japan - panoramio.jpg",
+      "artist": "comachiangel",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Futo,_Ito,_Shizuoka_Prefecture_413-0231,_Japan_-_panoramio.jpg"
+    }
+  },
+  {
+    "slug": "zombie-land-saga",
+    "title": "Zombie Land Saga",
+    "jp": "ゾンビランドサガ",
+    "blurb": "Franchouchou’s home turf ↔ Saga City, Kyūshū",
+    "coords": "33.2494° N, 130.2988° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Hommaru of Saga Castle 2.jpg",
+      "artist": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hommaru_of_Saga_Castle_2.jpg"
+    }
+  },
+  {
+    "slug": "toradora",
+    "title": "Toradora!",
+    "jp": "とらドラ！",
+    "blurb": "Ryūji and Taiga’s walk home ↔ Tamagawa-jōsui canal, Tokyo",
+    "coords": "35.7280° N, 139.4770° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:TamagawaJosui nearSakurajosui.JPG",
+      "artist": "sewmew",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:TamagawaJosui_nearSakurajosui.JPG"
+    }
+  },
+  {
+    "slug": "blue-period",
+    "title": "Blue Period",
+    "jp": "ブルーピリオド",
+    "blurb": "Yatora’s exam pilgrimage ↔ Ueno Park & Geidai, Tokyo",
+    "coords": "35.7148° N, 139.7737° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Pink swanboat hosting a real bird on its head, on Shinobazu Pond, Ueno Park, Tokyo.jpg",
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pink_swanboat_hosting_a_real_bird_on_its_head,_on_Shinobazu_Pond,_Ueno_Park,_Tokyo.jpg"
+    }
+  },
+  {
+    "slug": "shirobako",
+    "title": "Shirobako",
+    "jp": "SHIROBAKO",
+    "blurb": "Musashino Animation’s streets ↔ Musashino, Tokyo",
+    "coords": "35.7022° N, 139.5609° E",
+    "archetype": "old-street",
+    "credit": {
+      "file": "File:Kichijoji - panoramio - kcomiida (11).jpg",
+      "artist": "kcomiida",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kichijoji_-_panoramio_-_kcomiida_(11).jpg"
+    }
   }
 ]

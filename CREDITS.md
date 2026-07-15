@@ -75,6 +75,11 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | In This Corner of the World — Kure, Hiroshima | [Port of Kure in Hiroshima 呉港 20191130.jpg](https://commons.wikimedia.org/wiki/File:Port_of_Kure_in_Hiroshima_%E5%91%89%E6%B8%AF_20191130.jpg) | Kanesue | CC BY 2.0 |
 | Iroduku: The World in Colors — Nagasaki | [Nagasaki-Glover-Garden-5415.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki-Glover-Garden-5415.jpg) | Fg2 | Public domain |
 | Yuru Yuri — Takaoka, Toyama | [Takaoka Daibutsu 2011-07-15 01.jpg](https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_2011-07-15_01.jpg) | 柑橘類 (talk) | CC BY-SA 3.0 |
+| Amanchu! — Itō, Izu Peninsula | [Futo, Ito, Shizuoka Prefecture 413-0231, Japan - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Futo,_Ito,_Shizuoka_Prefecture_413-0231,_Japan_-_panoramio.jpg) | comachiangel | CC BY 3.0 |
+| Zombie Land Saga — Saga City, Kyūshū | [Saga Prefectural Road No 281.JPG](https://commons.wikimedia.org/wiki/File:Saga_Prefectural_Road_No_281.JPG) | Nissy-KITAQ | CC BY-SA 3.0 |
+| Toradora! — Tamagawa-jōsui canal, Tokyo | [Seibu-railway-haijima-line-Tamagawa-josui-station-platform.jpg](https://commons.wikimedia.org/wiki/File:Seibu-railway-haijima-line-Tamagawa-josui-station-platform.jpg) | LERK (talk · contribs) | CC BY 3.0 |
+| Blue Period — Ueno Park & Geidai, Tokyo | [Pink swanboat hosting a real bird on its head, on Shinobazu Pond, Ueno Park, Tokyo.jpg](https://commons.wikimedia.org/wiki/File:Pink_swanboat_hosting_a_real_bird_on_its_head,_on_Shinobazu_Pond,_Ueno_Park,_Tokyo.jpg) | Basile Morin | CC BY-SA 4.0 |
+| Shirobako — Musashino, Tokyo | [Kichijoji - panoramio - kcomiida (11).jpg](https://commons.wikimedia.org/wiki/File:Kichijoji_-_panoramio_-_kcomiida_(11).jpg) | kcomiida | CC BY-SA 3.0 |
 
 ## Illustrated frames
 
