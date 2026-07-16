@@ -97,5 +97,104 @@
       "Ninomiya Kanagawa coast",
       "Ninomiya station Kanagawa"
     ]
+  },
+  {
+    "slug": "steins-gate-0",
+    "title": "Steins;Gate 0",
+    "jp": "シュタインズ・ゲート ゼロ",
+    "blurb": "Maho's Vienna conference ↔ Yanaka Ginza, Tokyo (the series' quieter side street)",
+    "coords": "35.7280° N, 139.7669° E",
+    "queries": [
+      "Yanaka Ginza",
+      "Yanaka Ginza shopping street"
+    ]
+  },
+  {
+    "slug": "mob-psycho",
+    "title": "Mob Psycho 100",
+    "jp": "モブサイコ100",
+    "blurb": "Seasoning City's rooftops ↔ Chōfu, Tokyo",
+    "coords": "35.6520° N, 139.5430° E",
+    "queries": [
+      "Chofu Tokyo station area",
+      "Chofu city street"
+    ]
+  },
+  {
+    "slug": "run-with-wind",
+    "title": "Run with the Wind",
+    "jp": "風が強く吹いている",
+    "blurb": "The Kansei University Ekiden route ↔ Hakone Ekiden's Route 1, Kanagawa",
+    "coords": "35.2323° N, 139.1070° E",
+    "queries": [
+      "Hakone Ekiden route",
+      "Hakone Yumoto road"
+    ]
+  },
+  {
+    "slug": "haikara-san",
+    "title": "Haikara-san: Here Comes Miss Modern",
+    "jp": "はいからさんが通る",
+    "blurb": "Taisho-era Tokyo romance ↔ Yushima Tenmangu Shrine, Tokyo",
+    "coords": "35.7078° N, 139.7688° E",
+    "queries": [
+      "Yushima Tenmangu",
+      "Yushima Tenjin shrine Tokyo"
+    ]
+  },
+  {
+    "slug": "kamichu",
+    "title": "Kamichu!",
+    "jp": "かみちゅ!",
+    "blurb": "Yurie's small-god town ↔ Onomichi, Hiroshima",
+    "coords": "34.4089° N, 133.2054° E",
+    "queries": [
+      "Onomichi hillside town",
+      "Onomichi Hiroshima street"
+    ]
+  },
+  {
+    "slug": "great-teacher-onizuka",
+    "title": "Great Teacher Onizuka",
+    "jp": "GTO",
+    "blurb": "Onizuka's classroom battles ↔ Shonan coastline, Kanagawa",
+    "coords": "35.3067° N, 139.4808° E",
+    "queries": [
+      "Shonan coast Kanagawa",
+      "Enoshima Shonan beach"
+    ]
+  },
+  {
+    "slug": "tsuritama",
+    "title": "Tsuritama",
+    "jp": "つり球",
+    "blurb": "Yuki's fishing-obsessed island ↔ Enoshima, Kanagawa",
+    "coords": "35.2999° N, 139.4803° E",
+    "queries": [
+      "Enoshima island",
+      "Enoshima Kanagawa"
+    ]
+  },
+  {
+    "slug": "non-non-biyori",
+    "title": "Non Non Biyori",
+    "jp": "のんのんびより",
+    "blurb": "Asahigaoka's rural schoolhouse ↔ a countryside village, Hida, Gifu",
+    "coords": "36.1462° N, 137.2530° E",
+    "queries": [
+      "Hida Furukawa countryside",
+      "Hida rural village Gifu"
+    ]
+  },
+  {
+    "slug": "girls-last-tour",
+    "title": "Made in Abyss",
+    "jp": "メイドインアビス",
+    "blurb": "The Abyss's rim town ↔ a karst sinkhole landscape reminiscent of Akiyoshidai, Yamaguchi",
+    "coords": "34.2333° N, 131.3000° E",
+    "queries": [
+      "Akiyoshidai karst plateau",
+      "Akiyoshido cave Yamaguchi"
+    ]
   }
 ]
