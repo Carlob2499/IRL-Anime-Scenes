@@ -76,10 +76,15 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Iroduku: The World in Colors — Nagasaki | [Nagasaki-Glover-Garden-5415.jpg](https://commons.wikimedia.org/wiki/File:Nagasaki-Glover-Garden-5415.jpg) | Fg2 | Public domain |
 | Yuru Yuri — Takaoka, Toyama | [Takaoka Daibutsu 2011-07-15 01.jpg](https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_2011-07-15_01.jpg) | 柑橘類 (talk) | CC BY-SA 3.0 |
 | Amanchu! — Itō, Izu Peninsula | [Futo, Ito, Shizuoka Prefecture 413-0231, Japan - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Futo,_Ito,_Shizuoka_Prefecture_413-0231,_Japan_-_panoramio.jpg) | comachiangel | CC BY 3.0 |
-| Zombie Land Saga — Saga City, Kyūshū | [Saga Prefectural Road No 281.JPG](https://commons.wikimedia.org/wiki/File:Saga_Prefectural_Road_No_281.JPG) | Nissy-KITAQ | CC BY-SA 3.0 |
-| Toradora! — Tamagawa-jōsui canal, Tokyo | [Seibu-railway-haijima-line-Tamagawa-josui-station-platform.jpg](https://commons.wikimedia.org/wiki/File:Seibu-railway-haijima-line-Tamagawa-josui-station-platform.jpg) | LERK (talk · contribs) | CC BY 3.0 |
+| Zombie Land Saga — Saga City, Kyūshū | [Hommaru of Saga Castle 2.jpg](https://commons.wikimedia.org/wiki/File:Hommaru_of_Saga_Castle_2.jpg) | そらみみ | CC BY-SA 4.0 |
+| Toradora! — Tamagawa-jōsui canal, Tokyo | [TamagawaJosui nearSakurajosui.JPG](https://commons.wikimedia.org/wiki/File:TamagawaJosui_nearSakurajosui.JPG) | sewmew | Public domain |
 | Blue Period — Ueno Park & Geidai, Tokyo | [Pink swanboat hosting a real bird on its head, on Shinobazu Pond, Ueno Park, Tokyo.jpg](https://commons.wikimedia.org/wiki/File:Pink_swanboat_hosting_a_real_bird_on_its_head,_on_Shinobazu_Pond,_Ueno_Park,_Tokyo.jpg) | Basile Morin | CC BY-SA 4.0 |
 | Shirobako — Musashino, Tokyo | [Kichijoji - panoramio - kcomiida (11).jpg](https://commons.wikimedia.org/wiki/File:Kichijoji_-_panoramio_-_kcomiida_(11).jpg) | kcomiida | CC BY-SA 3.0 |
+| Digimon Adventure — Rainbow Bridge & Odaiba waterfront, Tokyo | [Rainbow Bridge, Tokyo, South view from Odaiba 20190419 1.jpg](https://commons.wikimedia.org/wiki/File:Rainbow_Bridge,_Tokyo,_South_view_from_Odaiba_20190419_1.jpg) | DXR | CC BY-SA 4.0 |
+| Nichijou — Musashi-Koganei, Tokyo | [JR East Musashi-Koganei Station Platform 3・4.jpg](https://commons.wikimedia.org/wiki/File:JR_East_Musashi-Koganei_Station_Platform_3%E3%83%BB4.jpg) | Mister0124 | CC BY-SA 4.0 |
+| Yowamushi Pedal — Choshi Electric Railway, Chiba | [Choshi Electric Railway Line 2.JPG](https://commons.wikimedia.org/wiki/File:Choshi_Electric_Railway_Line_2.JPG) | まも(Mamo) | Public domain |
+| The Anthem of the Heart — Chichibu Muse Park amphitheatre, Saitama | [Chichibu Muse-Park1.JPG](https://commons.wikimedia.org/wiki/File:Chichibu_Muse-Park1.JPG) | Ebiebi2 | CC BY-SA 3.0 |
+| Wake Up, Girls! — Jōzenji-dōri avenue, Sendai | [Sendai citybus in Jozenji-dori ave. 2023.jpg](https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg) | Mutimaro | CC BY-SA 4.0 |
 
 ## Illustrated frames
 

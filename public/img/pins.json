@@ -838,5 +838,75 @@
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Kichijoji_-_panoramio_-_kcomiida_(11).jpg"
     }
+  },
+  {
+    "slug": "digimon-odaiba",
+    "title": "Digimon Adventure",
+    "jp": "デジモンアドベンチャー",
+    "blurb": "Odaiba's digital gate ↔ Rainbow Bridge & Odaiba waterfront, Tokyo",
+    "coords": "35.6267° N, 139.7737° E",
+    "archetype": "bridge",
+    "credit": {
+      "file": "File:Rainbow Bridge, Tokyo, South view from Odaiba 20190419 1.jpg",
+      "artist": "DXR",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rainbow_Bridge,_Tokyo,_South_view_from_Odaiba_20190419_1.jpg"
+    }
+  },
+  {
+    "slug": "nichijou",
+    "title": "Nichijou",
+    "jp": "日常",
+    "blurb": "Sakuragaoka's everyday ↔ Musashi-Koganei, Tokyo",
+    "coords": "35.7009° N, 139.5142° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:JR East Musashi-Koganei Station Platform 3・4.jpg",
+      "artist": "Mister0124",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:JR_East_Musashi-Koganei_Station_Platform_3%E3%83%BB4.jpg"
+    }
+  },
+  {
+    "slug": "yowamushi-pedal",
+    "title": "Yowamushi Pedal",
+    "jp": "弱虫ペダル",
+    "blurb": "Onoda's coastal ride ↔ Choshi Electric Railway, Chiba",
+    "coords": "35.7326° N, 140.8563° E",
+    "archetype": "beach",
+    "credit": {
+      "file": "File:Choshi Electric Railway Line 2.JPG",
+      "artist": "まも(Mamo)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Choshi_Electric_Railway_Line_2.JPG"
+    }
+  },
+  {
+    "slug": "anthem-heart",
+    "title": "The Anthem of the Heart",
+    "jp": "心が叫びたがってるんだ",
+    "blurb": "Jun's outdoor stage ↔ Chichibu Muse Park amphitheatre, Saitama",
+    "coords": "35.9989° N, 139.1147° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Chichibu Muse-Park Outdoor stage.JPG",
+      "artist": "Ebiebi2",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chichibu_Muse-Park_Outdoor_stage.JPG"
+    }
+  },
+  {
+    "slug": "wake-up-girls",
+    "title": "Wake Up, Girls!",
+    "jp": "Wake Up, Girls!",
+    "blurb": "The idol group's home turf ↔ Jōzenji-dōri avenue, Sendai",
+    "coords": "38.2632° N, 140.8747° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Sendai citybus in Jozenji-dori ave. 2023.jpg",
+      "artist": "Mutimaro",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg"
+    }
   }
 ]
