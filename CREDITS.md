@@ -83,8 +83,13 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Digimon Adventure — Rainbow Bridge & Odaiba waterfront, Tokyo | [Rainbow Bridge, Tokyo, South view from Odaiba 20190419 1.jpg](https://commons.wikimedia.org/wiki/File:Rainbow_Bridge,_Tokyo,_South_view_from_Odaiba_20190419_1.jpg) | DXR | CC BY-SA 4.0 |
 | Nichijou — Musashi-Koganei, Tokyo | [JR East Musashi-Koganei Station Platform 3・4.jpg](https://commons.wikimedia.org/wiki/File:JR_East_Musashi-Koganei_Station_Platform_3%E3%83%BB4.jpg) | Mister0124 | CC BY-SA 4.0 |
 | Yowamushi Pedal — Choshi Electric Railway, Chiba | [Choshi Electric Railway Line 2.JPG](https://commons.wikimedia.org/wiki/File:Choshi_Electric_Railway_Line_2.JPG) | まも(Mamo) | Public domain |
-| The Anthem of the Heart — Chichibu Muse Park amphitheatre, Saitama | [Chichibu Muse-Park1.JPG](https://commons.wikimedia.org/wiki/File:Chichibu_Muse-Park1.JPG) | Ebiebi2 | CC BY-SA 3.0 |
+| The Anthem of the Heart — Chichibu Muse Park amphitheatre, Saitama | [Chichibu Muse-Park Outdoor stage.JPG](https://commons.wikimedia.org/wiki/File:Chichibu_Muse-Park_Outdoor_stage.JPG) | Ebiebi2 | CC BY-SA 3.0 |
 | Wake Up, Girls! — Jōzenji-dōri avenue, Sendai | [Sendai citybus in Jozenji-dori ave. 2023.jpg](https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg) | Mutimaro | CC BY-SA 4.0 |
+| Only Yesterday — Takase, Yamagata | [Yamagata safflower field.jpg](https://commons.wikimedia.org/wiki/File:Yamagata_safflower_field.jpg) | Indiana jo | CC0 |
+| Pom Poko — Tama New Town, Tokyo | [Tama New Town neighbourhood (2008-07-29).jpg](https://commons.wikimedia.org/wiki/File:Tama_New_Town_neighbourhood_(2008-07-29).jpg) | Flickr user conbon33 | CC BY 2.0 |
+| Bungo Stray Dogs — Yokohama Red Brick Warehouse | [Yokohama Red Brick Warehouse 2012.JPG](https://commons.wikimedia.org/wiki/File:Yokohama_Red_Brick_Warehouse_2012.JPG) | Kakidai | CC BY-SA 3.0 |
+| Chihayafuru — Ōmi Jingū Shrine, Ōtsu, Shiga | [Omi-jingu02n4592.jpg](https://commons.wikimedia.org/wiki/File:Omi-jingu02n4592.jpg) | 663highland | CC BY 2.5 |
+| Kids on the Slope — Sasebo, Nagasaki | [200320 Sasebo Port Sasebo Nagasaki pref Japan06s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Sasebo_Port_Sasebo_Nagasaki_pref_Japan06s3.jpg) | 663highland | CC BY-SA 4.0 |
 
 ## Illustrated frames
 

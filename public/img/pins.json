@@ -908,5 +908,75 @@
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Sendai_citybus_in_Jozenji-dori_ave._2023.jpg"
     }
+  },
+  {
+    "slug": "only-yesterday",
+    "title": "Only Yesterday",
+    "jp": "おもひでぽろぽろ",
+    "blurb": "Taeko's safflower fields ↔ Takase, Yamagata",
+    "coords": "38.3040° N, 140.2760° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Yamagata safflower field.jpg",
+      "artist": "Indiana jo",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yamagata_safflower_field.jpg"
+    }
+  },
+  {
+    "slug": "pom-poko",
+    "title": "Pom Poko",
+    "jp": "平成狸合戦ぽんぽこ",
+    "blurb": "The tanuki's vanishing hillside ↔ Tama New Town, Tokyo",
+    "coords": "35.6339° N, 139.4386° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Tama New Town neighbourhood (2008-07-29).jpg",
+      "artist": "Flickr user conbon33",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tama_New_Town_neighbourhood_(2008-07-29).jpg"
+    }
+  },
+  {
+    "slug": "bungo-stray-dogs",
+    "title": "Bungo Stray Dogs",
+    "jp": "文豪ストレイドッグス",
+    "blurb": "The Armed Detective Agency's port ↔ Yokohama Red Brick Warehouse",
+    "coords": "35.4525° N, 139.6425° E",
+    "archetype": "harbor",
+    "credit": {
+      "file": "File:Yokohama Red Brick Warehouse 2012.JPG",
+      "artist": "Kakidai",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yokohama_Red_Brick_Warehouse_2012.JPG"
+    }
+  },
+  {
+    "slug": "chihayafuru",
+    "title": "Chihayafuru",
+    "jp": "ちはやふる",
+    "blurb": "The karuta finals ↔ Ōmi Jingū Shrine, Ōtsu, Shiga",
+    "coords": "35.0489° N, 135.8747° E",
+    "archetype": "shrine",
+    "credit": {
+      "file": "File:Omi-jingu02n4592.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Omi-jingu02n4592.jpg"
+    }
+  },
+  {
+    "slug": "kids-slope",
+    "title": "Kids on the Slope",
+    "jp": "坂道のアポロン",
+    "blurb": "Sentarō and Kaoru's port town ↔ Sasebo, Nagasaki",
+    "coords": "33.1592° N, 129.7228° E",
+    "archetype": "harbor",
+    "credit": {
+      "file": "File:200320 Sasebo Port Sasebo Nagasaki pref Japan06s3.jpg",
+      "artist": "663highland",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:200320_Sasebo_Port_Sasebo_Nagasaki_pref_Japan06s3.jpg"
+    }
   }
 ]
