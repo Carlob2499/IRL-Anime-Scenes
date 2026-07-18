@@ -90,6 +90,11 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Bungo Stray Dogs — Yokohama Red Brick Warehouse | [Yokohama Red Brick Warehouse 2012.JPG](https://commons.wikimedia.org/wiki/File:Yokohama_Red_Brick_Warehouse_2012.JPG) | Kakidai | CC BY-SA 3.0 |
 | Chihayafuru — Ōmi Jingū Shrine, Ōtsu, Shiga | [Omi-jingu02n4592.jpg](https://commons.wikimedia.org/wiki/File:Omi-jingu02n4592.jpg) | 663highland | CC BY 2.5 |
 | Kids on the Slope — Sasebo, Nagasaki | [200320 Sasebo Port Sasebo Nagasaki pref Japan06s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Sasebo_Port_Sasebo_Nagasaki_pref_Japan06s3.jpg) | 663highland | CC BY-SA 4.0 |
+| Silver Spoon — Obihiro, Tokachi, Hokkaidō | [131012 Midorigaoka Park Obihiro Hokkaido Japan02s3.jpg](https://commons.wikimedia.org/wiki/File:131012_Midorigaoka_Park_Obihiro_Hokkaido_Japan02s3.jpg) | 663highland | CC BY 2.5 |
+| Ashita no Joe — Namidabashi, San'ya, Tokyo | [Namidabashi Intersection.JPG](https://commons.wikimedia.org/wiki/File:Namidabashi_Intersection.JPG) | Abasaa | Public domain |
+| Tokyo Godfathers — Golden Gai, Tokyo | [Shinjuku Golden Gai.jpg](https://commons.wikimedia.org/wiki/File:Shinjuku_Golden_Gai.jpg) | てらたにこういち | CC BY 3.0 |
+| Clannad — Ninomiya, Kanagawa | [Ninomiya Station Dec 20 2021 various.jpeg](https://commons.wikimedia.org/wiki/File:Ninomiya_Station_Dec_20_2021_various.jpeg) | Nesnad | CC BY 4.0 |
+| Steins;Gate 0 — Yanaka Ginza, Tokyo (the series' quieter side street) | [Yanaka Ginza 2.jpg](https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg) | Christophe95 | CC BY-SA 4.0 |
 
 ## Illustrated frames
 

@@ -978,5 +978,75 @@
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:200320_Sasebo_Port_Sasebo_Nagasaki_pref_Japan06s3.jpg"
     }
+  },
+  {
+    "slug": "silver-spoon",
+    "title": "Silver Spoon",
+    "jp": "銀の匙 Silver Spoon",
+    "blurb": "Ōezo Agricultural High ↔ Obihiro, Tokachi, Hokkaidō",
+    "coords": "42.9152° N, 143.1958° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:131012 Midorigaoka Park Obihiro Hokkaido Japan02s3.jpg",
+      "artist": "663highland",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:131012_Midorigaoka_Park_Obihiro_Hokkaido_Japan02s3.jpg"
+    }
+  },
+  {
+    "slug": "ashita-no-joe",
+    "title": "Ashita no Joe",
+    "jp": "あしたのジョー",
+    "blurb": "Joe's boxing gym district ↔ Namidabashi, San'ya, Tokyo",
+    "coords": "35.7280° N, 139.7936° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Namidabashi Intersection.JPG",
+      "artist": "Abasaa",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Namidabashi_Intersection.JPG"
+    }
+  },
+  {
+    "slug": "tokyo-godfathers",
+    "title": "Tokyo Godfathers",
+    "jp": "東京ゴッドファーザーズ",
+    "blurb": "A Christmas Eve in Shinjuku ↔ Golden Gai, Tokyo",
+    "coords": "35.6947° N, 139.7038° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:2024-10-20 Shinjuku Golden Gai at night.jpg",
+      "artist": "Alexkom000",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2024-10-20_Shinjuku_Golden_Gai_at_night.jpg"
+    }
+  },
+  {
+    "slug": "clannad",
+    "title": "Clannad",
+    "jp": "クラナド",
+    "blurb": "Tomoya and Nagisa's hillside town ↔ Ninomiya, Kanagawa",
+    "coords": "35.3010° N, 139.2540° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Ninomiya Station Dec 20 2021 various.jpeg",
+      "artist": "Nesnad",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ninomiya_Station_Dec_20_2021_various.jpeg"
+    }
+  },
+  {
+    "slug": "steins-gate-0",
+    "title": "Steins;Gate 0",
+    "jp": "シュタインズ・ゲート ゼロ",
+    "blurb": "Maho's Vienna conference ↔ Yanaka Ginza, Tokyo (the series' quieter side street)",
+    "coords": "35.7280° N, 139.7669° E",
+    "archetype": "old-street",
+    "credit": {
+      "file": "File:Yanaka Ginza 2.jpg",
+      "artist": "Christophe95",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg"
+    }
   }
 ]
