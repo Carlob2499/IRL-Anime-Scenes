@@ -86,5 +86,104 @@
       "Akiyoshidai karst plateau",
       "Akiyoshido cave Yamaguchi"
     ]
+  },
+  {
+    "slug": "orange",
+    "title": "Orange",
+    "jp": "orange",
+    "blurb": "Naho's letters from the future ↔ Lake Suwa, Nagano",
+    "coords": "36.0430° N, 138.1050° E",
+    "queries": [
+      "Lake Suwa Nagano",
+      "Suwako lake"
+    ]
+  },
+  {
+    "slug": "devil-part-timer",
+    "title": "The Devil is a Part-Timer!",
+    "jp": "はたらく魔王さま！",
+    "blurb": "Satan's fast-food exile ↔ Sasazuka, Shibuya, Tokyo",
+    "coords": "35.6749° N, 139.6669° E",
+    "queries": [
+      "Sasazuka Station Tokyo",
+      "Sasazuka Shibuya street"
+    ]
+  },
+  {
+    "slug": "bakuman",
+    "title": "Bakuman",
+    "jp": "バクマン。",
+    "blurb": "Mashiro and Takagi's manga pilgrimage ↔ Ikebukuro, Tokyo",
+    "coords": "35.7295° N, 139.7109° E",
+    "queries": [
+      "Ikebukuro street",
+      "Ikebukuro Sunshine City"
+    ]
+  },
+  {
+    "slug": "sao-kawagoe",
+    "title": "Sword Art Online: Progressive",
+    "jp": "ソードアート・オンライン プログレッシブ",
+    "blurb": "Asuna's hometown ↔ Kawagoe's Kurazukuri street, Saitama",
+    "coords": "35.9251° N, 139.4858° E",
+    "queries": [
+      "Kawagoe Kurazukuri street",
+      "Kawagoe Little Edo"
+    ]
+  },
+  {
+    "slug": "tatami-galaxy",
+    "title": "The Tatami Galaxy",
+    "jp": "四畳半神話大系",
+    "blurb": "The unnamed student's looping Kyoto ↔ Hyakumanben intersection, Kyoto",
+    "coords": "35.0287° N, 135.7830° E",
+    "queries": [
+      "Hyakumanben intersection Kyoto",
+      "Hyakumanben Kyoto University"
+    ]
+  },
+  {
+    "slug": "yuki-yuna",
+    "title": "Yuki Yuna is a Hero",
+    "jp": "结城友奈は勇者である",
+    "blurb": "Sanshu Middle School's island ↔ Shuri Castle, Okinawa",
+    "coords": "26.2170° N, 127.7194° E",
+    "queries": [
+      "Shuri Castle Okinawa",
+      "Shurijo Okinawa"
+    ]
+  },
+  {
+    "slug": "poco-udon",
+    "title": "Poco's Udon World",
+    "jp": "ポコのウドン世界",
+    "blurb": "Souta's udon-country return ↔ Marugame, Kagawa",
+    "coords": "34.2856° N, 133.7994° E",
+    "queries": [
+      "Marugame Castle Kagawa",
+      "Marugame city"
+    ]
+  },
+  {
+    "slug": "flying-witch",
+    "title": "Flying Witch",
+    "jp": "ふらいんぐうぃっち",
+    "blurb": "Makoto's apprenticeship ↔ Hirosaki, Aomori",
+    "coords": "40.6083° N, 140.4636° E",
+    "queries": [
+      "Hirosaki Castle Aomori",
+      "Hirosaki city"
+    ]
+  },
+  {
+    "slug": "wave-listen",
+    "title": "Wave, Listen to Me!",
+    "jp": "波よ聞いてくれ",
+    "blurb": "Minare's late-night radio booth ↔ Sapporo, Hokkaidō",
+    "coords": "43.0621° N, 141.3544° E",
+    "queries": [
+      "Sapporo clock tower",
+      "Sapporo city street"
+    ]
   }
 ]
