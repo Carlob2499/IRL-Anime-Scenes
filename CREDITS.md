@@ -92,9 +92,14 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Kids on the Slope — Sasebo, Nagasaki | [200320 Sasebo Port Sasebo Nagasaki pref Japan06s3.jpg](https://commons.wikimedia.org/wiki/File:200320_Sasebo_Port_Sasebo_Nagasaki_pref_Japan06s3.jpg) | 663highland | CC BY-SA 4.0 |
 | Silver Spoon — Obihiro, Tokachi, Hokkaidō | [131012 Midorigaoka Park Obihiro Hokkaido Japan02s3.jpg](https://commons.wikimedia.org/wiki/File:131012_Midorigaoka_Park_Obihiro_Hokkaido_Japan02s3.jpg) | 663highland | CC BY 2.5 |
 | Ashita no Joe — Namidabashi, San'ya, Tokyo | [Namidabashi Intersection.JPG](https://commons.wikimedia.org/wiki/File:Namidabashi_Intersection.JPG) | Abasaa | Public domain |
-| Tokyo Godfathers — Golden Gai, Tokyo | [Shinjuku Golden Gai.jpg](https://commons.wikimedia.org/wiki/File:Shinjuku_Golden_Gai.jpg) | てらたにこういち | CC BY 3.0 |
+| Tokyo Godfathers — Golden Gai, Tokyo | [2024-10-20 Shinjuku Golden Gai at night.jpg](https://commons.wikimedia.org/wiki/File:2024-10-20_Shinjuku_Golden_Gai_at_night.jpg) | Alexkom000 | CC BY 4.0 |
 | Clannad — Ninomiya, Kanagawa | [Ninomiya Station Dec 20 2021 various.jpeg](https://commons.wikimedia.org/wiki/File:Ninomiya_Station_Dec_20_2021_various.jpeg) | Nesnad | CC BY 4.0 |
 | Steins;Gate 0 — Yanaka Ginza, Tokyo (the series' quieter side street) | [Yanaka Ginza 2.jpg](https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg) | Christophe95 | CC BY-SA 4.0 |
+| Mob Psycho 100 — Chōfu, Tokyo | [Akabane Station east exit area 2020-09-02.jpg](https://commons.wikimedia.org/wiki/File:Akabane_Station_east_exit_area_2020-09-02.jpg) | nakashi from Chofu, Tokyo, JAPAN | CC BY-SA 2.0 |
+| Run with the Wind — Hakone Ekiden's Route 1, Kanagawa | [Hakone check point South intersection.jpg](https://commons.wikimedia.org/wiki/File:Hakone_check_point_South_intersection.jpg) | Savers Liner | CC0 |
+| Haikara-san: Here Comes Miss Modern — Yushima Tenmangu Shrine, Tokyo | [YushimaTenmangu.JPG](https://commons.wikimedia.org/wiki/File:YushimaTenmangu.JPG) | Dennis Boller | CC BY-SA 3.0 |
+| Kamichu! — Onomichi, Hiroshima | [Onomichi, Hiroshima (15706089847).jpg](https://commons.wikimedia.org/wiki/File:Onomichi,_Hiroshima_(15706089847).jpg) | x768 | CC BY-SA 2.0 |
+| Great Teacher Onizuka — Shonan coastline, Kanagawa | [江ノ島 - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E3%83%8E%E5%B3%B6_-_panoramio_(1).jpg) | hideki higano | CC BY-SA 3.0 |
 
 ## Illustrated frames
 

@@ -1048,5 +1048,75 @@
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg"
     }
+  },
+  {
+    "slug": "mob-psycho",
+    "title": "Mob Psycho 100",
+    "jp": "モブサイコ100",
+    "blurb": "Seasoning City's rooftops ↔ Chōfu, Tokyo",
+    "coords": "35.6520° N, 139.5430° E",
+    "archetype": "rooftop",
+    "credit": {
+      "file": "File:Chofu station - new - digital panorama summer 2014.jpg",
+      "artist": "nesnad",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chofu_station_-_new_-_digital_panorama_summer_2014.jpg"
+    }
+  },
+  {
+    "slug": "run-with-wind",
+    "title": "Run with the Wind",
+    "jp": "風が強く吹いている",
+    "blurb": "The Kansei University Ekiden route ↔ Hakone Ekiden's Route 1, Kanagawa",
+    "coords": "35.2323° N, 139.1070° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Hakone check point South intersection.jpg",
+      "artist": "Savers Liner",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hakone_check_point_South_intersection.jpg"
+    }
+  },
+  {
+    "slug": "haikara-san",
+    "title": "Haikara-san: Here Comes Miss Modern",
+    "jp": "はいからさんが通る",
+    "blurb": "Taisho-era Tokyo romance ↔ Yushima Tenmangu Shrine, Tokyo",
+    "coords": "35.7078° N, 139.7688° E",
+    "archetype": "shrine",
+    "credit": {
+      "file": "File:YushimaTenmangu.JPG",
+      "artist": "Dennis Boller",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:YushimaTenmangu.JPG"
+    }
+  },
+  {
+    "slug": "kamichu",
+    "title": "Kamichu!",
+    "jp": "かみちゅ!",
+    "blurb": "Yurie's small-god town ↔ Onomichi, Hiroshima",
+    "coords": "34.4089° N, 133.2054° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Onomichi, Hiroshima (15706089847).jpg",
+      "artist": "x768",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Onomichi,_Hiroshima_(15706089847).jpg"
+    }
+  },
+  {
+    "slug": "great-teacher-onizuka",
+    "title": "Great Teacher Onizuka",
+    "jp": "GTO",
+    "blurb": "Onizuka's classroom battles ↔ Shonan coastline, Kanagawa",
+    "coords": "35.3067° N, 139.4808° E",
+    "archetype": "beach",
+    "credit": {
+      "file": "File:江ノ島 - panoramio (1).jpg",
+      "artist": "hideki higano",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E3%83%8E%E5%B3%B6_-_panoramio_(1).jpg"
+    }
   }
 ]
