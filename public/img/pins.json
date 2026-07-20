@@ -1118,5 +1118,75 @@
       "license": "CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E3%83%8E%E5%B3%B6_-_panoramio_(1).jpg"
     }
+  },
+  {
+    "slug": "tsuritama",
+    "title": "Tsuritama",
+    "jp": "つり球",
+    "blurb": "Yuki's fishing-obsessed island ↔ Enoshima, Kanagawa",
+    "coords": "35.2999° N, 139.4803° E",
+    "archetype": "beach",
+    "credit": {
+      "file": "File:Constructed areas on Enoshima 16.jpg",
+      "artist": "Syced",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Constructed_areas_on_Enoshima_16.jpg"
+    }
+  },
+  {
+    "slug": "girls-last-tour",
+    "title": "Made in Abyss",
+    "jp": "メイドインアビス",
+    "blurb": "The Abyss's rim town ↔ a karst sinkhole landscape reminiscent of Akiyoshidai, Yamaguchi",
+    "coords": "34.2333° N, 131.3000° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Akiyoshi Plateau from Akiyoshidai Karst Observation Deck (north).jpg",
+      "artist": "そらみみ (Soramimi)",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Akiyoshi_Plateau_from_Akiyoshidai_Karst_Observation_Deck_(north).jpg"
+    }
+  },
+  {
+    "slug": "orange",
+    "title": "Orange",
+    "jp": "orange",
+    "blurb": "Naho's letters from the future ↔ Lake Suwa, Nagano",
+    "coords": "36.0430° N, 138.1050° E",
+    "archetype": "mountain-lake",
+    "credit": {
+      "file": "File:Lake Suwa, Nagano Prefecture; May 2019 (06).jpg",
+      "artist": "Sei F",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(06).jpg"
+    }
+  },
+  {
+    "slug": "devil-part-timer",
+    "title": "The Devil is a Part-Timer!",
+    "jp": "はたらく魔王さま！",
+    "blurb": "Satan's fast-food exile ↔ Sasazuka, Shibuya, Tokyo",
+    "coords": "35.6749° N, 139.6669° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Sasazuka-Sta-Gate.JPG",
+      "artist": "Nyao148",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sasazuka-Sta-Gate.JPG"
+    }
+  },
+  {
+    "slug": "bakuman",
+    "title": "Bakuman",
+    "jp": "バクマン。",
+    "blurb": "Mashiro and Takagi's manga pilgrimage ↔ Ikebukuro, Tokyo",
+    "coords": "35.7295° N, 139.7109° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Ikebukuro (Seibu) station 2024.jpg",
+      "artist": "Smiley.toerist",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ikebukuro_(Seibu)_station_2024.jpg"
+    }
   }
 ]

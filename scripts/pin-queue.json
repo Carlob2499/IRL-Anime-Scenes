@@ -1,16 +1,5 @@
 [
   {
-    "slug": "tsuritama",
-    "title": "Tsuritama",
-    "jp": "つり球",
-    "blurb": "Yuki's fishing-obsessed island ↔ Enoshima, Kanagawa",
-    "coords": "35.2999° N, 139.4803° E",
-    "queries": [
-      "Enoshima island",
-      "Enoshima Kanagawa"
-    ]
-  },
-  {
     "slug": "non-non-biyori",
     "title": "Non Non Biyori",
     "jp": "のんのんびより",
@@ -19,50 +8,6 @@
     "queries": [
       "Hida Furukawa countryside",
       "Hida rural village Gifu"
-    ]
-  },
-  {
-    "slug": "girls-last-tour",
-    "title": "Made in Abyss",
-    "jp": "メイドインアビス",
-    "blurb": "The Abyss's rim town ↔ a karst sinkhole landscape reminiscent of Akiyoshidai, Yamaguchi",
-    "coords": "34.2333° N, 131.3000° E",
-    "queries": [
-      "Akiyoshidai karst plateau",
-      "Akiyoshido cave Yamaguchi"
-    ]
-  },
-  {
-    "slug": "orange",
-    "title": "Orange",
-    "jp": "orange",
-    "blurb": "Naho's letters from the future ↔ Lake Suwa, Nagano",
-    "coords": "36.0430° N, 138.1050° E",
-    "queries": [
-      "Lake Suwa Nagano",
-      "Suwako lake"
-    ]
-  },
-  {
-    "slug": "devil-part-timer",
-    "title": "The Devil is a Part-Timer!",
-    "jp": "はたらく魔王さま！",
-    "blurb": "Satan's fast-food exile ↔ Sasazuka, Shibuya, Tokyo",
-    "coords": "35.6749° N, 139.6669° E",
-    "queries": [
-      "Sasazuka Station Tokyo",
-      "Sasazuka Shibuya street"
-    ]
-  },
-  {
-    "slug": "bakuman",
-    "title": "Bakuman",
-    "jp": "バクマン。",
-    "blurb": "Mashiro and Takagi's manga pilgrimage ↔ Ikebukuro, Tokyo",
-    "coords": "35.7295° N, 139.7109° E",
-    "queries": [
-      "Ikebukuro street",
-      "Ikebukuro Sunshine City"
     ]
   },
   {

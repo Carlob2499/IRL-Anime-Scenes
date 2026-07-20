@@ -95,11 +95,16 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Tokyo Godfathers — Golden Gai, Tokyo | [2024-10-20 Shinjuku Golden Gai at night.jpg](https://commons.wikimedia.org/wiki/File:2024-10-20_Shinjuku_Golden_Gai_at_night.jpg) | Alexkom000 | CC BY 4.0 |
 | Clannad — Ninomiya, Kanagawa | [Ninomiya Station Dec 20 2021 various.jpeg](https://commons.wikimedia.org/wiki/File:Ninomiya_Station_Dec_20_2021_various.jpeg) | Nesnad | CC BY 4.0 |
 | Steins;Gate 0 — Yanaka Ginza, Tokyo (the series' quieter side street) | [Yanaka Ginza 2.jpg](https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg) | Christophe95 | CC BY-SA 4.0 |
-| Mob Psycho 100 — Chōfu, Tokyo | [Akabane Station east exit area 2020-09-02.jpg](https://commons.wikimedia.org/wiki/File:Akabane_Station_east_exit_area_2020-09-02.jpg) | nakashi from Chofu, Tokyo, JAPAN | CC BY-SA 2.0 |
+| Mob Psycho 100 — Chōfu, Tokyo | [Chofu station - new - digital panorama summer 2014.jpg](https://commons.wikimedia.org/wiki/File:Chofu_station_-_new_-_digital_panorama_summer_2014.jpg) | nesnad | CC BY 3.0 |
 | Run with the Wind — Hakone Ekiden's Route 1, Kanagawa | [Hakone check point South intersection.jpg](https://commons.wikimedia.org/wiki/File:Hakone_check_point_South_intersection.jpg) | Savers Liner | CC0 |
 | Haikara-san: Here Comes Miss Modern — Yushima Tenmangu Shrine, Tokyo | [YushimaTenmangu.JPG](https://commons.wikimedia.org/wiki/File:YushimaTenmangu.JPG) | Dennis Boller | CC BY-SA 3.0 |
 | Kamichu! — Onomichi, Hiroshima | [Onomichi, Hiroshima (15706089847).jpg](https://commons.wikimedia.org/wiki/File:Onomichi,_Hiroshima_(15706089847).jpg) | x768 | CC BY-SA 2.0 |
 | Great Teacher Onizuka — Shonan coastline, Kanagawa | [江ノ島 - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E6%B1%9F%E3%83%8E%E5%B3%B6_-_panoramio_(1).jpg) | hideki higano | CC BY-SA 3.0 |
+| Tsuritama — Enoshima, Kanagawa | [Constructed areas on Enoshima 16.jpg](https://commons.wikimedia.org/wiki/File:Constructed_areas_on_Enoshima_16.jpg) | Syced | CC0 |
+| Made in Abyss — a karst sinkhole landscape reminiscent of Akiyoshidai, Yamaguchi | [Akiyoshi Plateau from Akiyoshidai Karst Observation Deck (north).jpg](https://commons.wikimedia.org/wiki/File:Akiyoshi_Plateau_from_Akiyoshidai_Karst_Observation_Deck_(north).jpg) | そらみみ (Soramimi) | CC BY-SA 4.0 |
+| Orange — Lake Suwa, Nagano | [Lake Suwa, Nagano Prefecture; May 2019 (06).jpg](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(06).jpg) | Sei F | CC BY-SA 2.0 |
+| The Devil is a Part-Timer! — Sasazuka, Shibuya, Tokyo | [Sasazuka-Sta-Gate.JPG](https://commons.wikimedia.org/wiki/File:Sasazuka-Sta-Gate.JPG) | Nyao148 | CC BY 3.0 |
+| Bakuman — Ikebukuro, Tokyo | [Sunshine 60 Street 2020-04-19.jpg](https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg) | Asanagi | CC0 |
 
 ## Illustrated frames
 
