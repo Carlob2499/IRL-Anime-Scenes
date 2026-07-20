@@ -75,5 +75,104 @@
       "Sapporo clock tower",
       "Sapporo city street"
     ]
+  },
+  {
+    "slug": "skip-loafer",
+    "title": "Skip and Loafer",
+    "jp": "スキップとローファー",
+    "blurb": "Mitsumi's hometown ↔ Suzu, Noto Peninsula, Ishikawa",
+    "coords": "37.4500° N, 137.2667° E",
+    "queries": [
+      "Suzu Noto Peninsula",
+      "Suzu Ishikawa"
+    ]
+  },
+  {
+    "slug": "eccentric-family",
+    "title": "The Eccentric Family",
+    "jp": "有頂天家族",
+    "blurb": "The Shimogamo tanuki clan's forest ↔ Shimogamo Shrine, Kyoto",
+    "coords": "35.0392° N, 135.7728° E",
+    "queries": [
+      "Shimogamo Shrine Kyoto",
+      "Tadasu no Mori forest"
+    ]
+  },
+  {
+    "slug": "aria-venice",
+    "title": "ARIA the Animation",
+    "jp": "ARIA",
+    "blurb": "Neo-Venezia's canals ↔ Venice, Italy",
+    "coords": "45.4408° N, 12.3155° E",
+    "queries": [
+      "Venice canal gondola",
+      "Venice Italy canal"
+    ]
+  },
+  {
+    "slug": "nagi-asukara",
+    "title": "A Lull in the Sea",
+    "jp": "凪のあすから",
+    "blurb": "Shioshishio village's coastline ↔ Amakusa, Kumamoto",
+    "coords": "32.4667° N, 130.2000° E",
+    "queries": [
+      "Amakusa Kumamoto coast",
+      "Amakusa islands"
+    ]
+  },
+  {
+    "slug": "tamayura",
+    "title": "Tamayura",
+    "jp": "たまゆら",
+    "blurb": "Fu's hometown photo walks ↔ Takehara, Hiroshima ('Little Kyoto')",
+    "coords": "34.3389° N, 132.9083° E",
+    "queries": [
+      "Takehara old town Hiroshima",
+      "Takehara Little Kyoto"
+    ]
+  },
+  {
+    "slug": "yama-susume",
+    "title": "Encouragement of Climb",
+    "jp": "ヤマノススメ",
+    "blurb": "Aoi and Hinata's climb ↔ Mount Tanigawa, Gunma",
+    "coords": "36.7908° N, 138.9308° E",
+    "queries": [
+      "Mount Tanigawa Gunma",
+      "Tanigawadake"
+    ]
+  },
+  {
+    "slug": "tsurune",
+    "title": "Tsurune",
+    "jp": "ツルネ",
+    "blurb": "Minato's kyudo dojo town ↔ Kasama, Ibaraki",
+    "coords": "36.3419° N, 140.3072° E",
+    "queries": [
+      "Kasama Ibaraki",
+      "Kasama Inari Shrine"
+    ]
+  },
+  {
+    "slug": "aoashi",
+    "title": "Aoashi",
+    "jp": "アオアシ",
+    "blurb": "Ashito's youth academy pitch ↔ Komazawa Olympic Park, Tokyo",
+    "coords": "35.6217° N, 139.6608° E",
+    "queries": [
+      "Komazawa Olympic Park",
+      "Komazawa stadium Tokyo"
+    ]
+  },
+  {
+    "slug": "pancreas",
+    "title": "I Want to Eat Your Pancreas",
+    "jp": "君の膵臓をたべたい",
+    "blurb": "Sakura's hospital-town walks ↔ Himeji, Hyōgo",
+    "coords": "34.8394° N, 134.6939° E",
+    "queries": [
+      "Himeji Castle",
+      "Himeji city Hyogo"
+    ]
   }
 ]
