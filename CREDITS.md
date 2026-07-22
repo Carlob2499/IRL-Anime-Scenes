@@ -104,7 +104,12 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Made in Abyss — a karst sinkhole landscape reminiscent of Akiyoshidai, Yamaguchi | [Akiyoshi Plateau from Akiyoshidai Karst Observation Deck (north).jpg](https://commons.wikimedia.org/wiki/File:Akiyoshi_Plateau_from_Akiyoshidai_Karst_Observation_Deck_(north).jpg) | そらみみ (Soramimi) | CC BY-SA 4.0 |
 | Orange — Lake Suwa, Nagano | [Lake Suwa, Nagano Prefecture; May 2019 (06).jpg](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(06).jpg) | Sei F | CC BY-SA 2.0 |
 | The Devil is a Part-Timer! — Sasazuka, Shibuya, Tokyo | [Sasazuka-Sta-Gate.JPG](https://commons.wikimedia.org/wiki/File:Sasazuka-Sta-Gate.JPG) | Nyao148 | CC BY 3.0 |
-| Bakuman — Ikebukuro, Tokyo | [Sunshine 60 Street 2020-04-19.jpg](https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg) | Asanagi | CC0 |
+| Bakuman — Ikebukuro, Tokyo | [Ikebukuro (Seibu) station 2024.jpg](https://commons.wikimedia.org/wiki/File:Ikebukuro_(Seibu)_station_2024.jpg) | Smiley.toerist | CC BY-SA 4.0 |
+| Sword Art Online: Progressive — Kawagoe's Kurazukuri street, Saitama | [Kurazukuri Street in Little Edo.jpg](https://commons.wikimedia.org/wiki/File:Kurazukuri_Street_in_Little_Edo.jpg) | Dandy1022 | CC BY-SA 4.0 |
+| The Tatami Galaxy — Hyakumanben intersection, Kyoto | [Hyakumanben Intersection - Oct 6, 2005.jpg](https://commons.wikimedia.org/wiki/File:Hyakumanben_Intersection_-_Oct_6,_2005.jpg) | dygn | CC BY-SA 2.0 |
+| Yuki Yuna is a Hero — Shuri Castle, Okinawa | [Naha Okinawa Japan Shuri-Castle-02.jpg](https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg) | CEphoto, Uwe Aranas | CC BY-SA 3.0 |
+| Poco's Udon World — Marugame, Kagawa | [Marugame Castle01.jpg](https://commons.wikimedia.org/wiki/File:Marugame_Castle01.jpg) | Toto-tarou | CC BY-SA 3.0 |
+| Flying Witch — Hirosaki, Aomori | [Hirosaki Castle Keep Tower 20220508.jpg](https://commons.wikimedia.org/wiki/File:Hirosaki_Castle_Keep_Tower_20220508.jpg) | 掬茶 | CC BY-SA 4.0 |
 
 ## Illustrated frames
 

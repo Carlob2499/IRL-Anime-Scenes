@@ -11,61 +11,6 @@
     ]
   },
   {
-    "slug": "sao-kawagoe",
-    "title": "Sword Art Online: Progressive",
-    "jp": "ソードアート・オンライン プログレッシブ",
-    "blurb": "Asuna's hometown ↔ Kawagoe's Kurazukuri street, Saitama",
-    "coords": "35.9251° N, 139.4858° E",
-    "queries": [
-      "Kawagoe Kurazukuri street",
-      "Kawagoe Little Edo"
-    ]
-  },
-  {
-    "slug": "tatami-galaxy",
-    "title": "The Tatami Galaxy",
-    "jp": "四畳半神話大系",
-    "blurb": "The unnamed student's looping Kyoto ↔ Hyakumanben intersection, Kyoto",
-    "coords": "35.0287° N, 135.7830° E",
-    "queries": [
-      "Hyakumanben intersection Kyoto",
-      "Hyakumanben Kyoto University"
-    ]
-  },
-  {
-    "slug": "yuki-yuna",
-    "title": "Yuki Yuna is a Hero",
-    "jp": "结城友奈は勇者である",
-    "blurb": "Sanshu Middle School's island ↔ Shuri Castle, Okinawa",
-    "coords": "26.2170° N, 127.7194° E",
-    "queries": [
-      "Shuri Castle Okinawa",
-      "Shurijo Okinawa"
-    ]
-  },
-  {
-    "slug": "poco-udon",
-    "title": "Poco's Udon World",
-    "jp": "ポコのウドン世界",
-    "blurb": "Souta's udon-country return ↔ Marugame, Kagawa",
-    "coords": "34.2856° N, 133.7994° E",
-    "queries": [
-      "Marugame Castle Kagawa",
-      "Marugame city"
-    ]
-  },
-  {
-    "slug": "flying-witch",
-    "title": "Flying Witch",
-    "jp": "ふらいんぐうぃっち",
-    "blurb": "Makoto's apprenticeship ↔ Hirosaki, Aomori",
-    "coords": "40.6083° N, 140.4636° E",
-    "queries": [
-      "Hirosaki Castle Aomori",
-      "Hirosaki city"
-    ]
-  },
-  {
     "slug": "wave-listen",
     "title": "Wave, Listen to Me!",
     "jp": "波よ聞いてくれ",

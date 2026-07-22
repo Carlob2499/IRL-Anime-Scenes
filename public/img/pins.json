@@ -1188,5 +1188,75 @@
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Ikebukuro_(Seibu)_station_2024.jpg"
     }
+  },
+  {
+    "slug": "sao-kawagoe",
+    "title": "Sword Art Online: Progressive",
+    "jp": "ソードアート・オンライン プログレッシブ",
+    "blurb": "Asuna's hometown ↔ Kawagoe's Kurazukuri street, Saitama",
+    "coords": "35.9251° N, 139.4858° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Kurazukuri Street in Little Edo.jpg",
+      "artist": "Dandy1022",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kurazukuri_Street_in_Little_Edo.jpg"
+    }
+  },
+  {
+    "slug": "tatami-galaxy",
+    "title": "The Tatami Galaxy",
+    "jp": "四畳半神話大系",
+    "blurb": "The unnamed student's looping Kyoto ↔ Hyakumanben intersection, Kyoto",
+    "coords": "35.0287° N, 135.7830° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Hyakumanben Intersection - Oct 6, 2005.jpg",
+      "artist": "dygn",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyakumanben_Intersection_-_Oct_6,_2005.jpg"
+    }
+  },
+  {
+    "slug": "yuki-yuna",
+    "title": "Yuki Yuna is a Hero",
+    "jp": "结城友奈は勇者である",
+    "blurb": "Sanshu Middle School's island ↔ Shuri Castle, Okinawa",
+    "coords": "26.2170° N, 127.7194° E",
+    "archetype": "castle",
+    "credit": {
+      "file": "File:Naha Okinawa Japan Shuri-Castle-02.jpg",
+      "artist": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg"
+    }
+  },
+  {
+    "slug": "poco-udon",
+    "title": "Poco's Udon World",
+    "jp": "ポコのウドン世界",
+    "blurb": "Souta's udon-country return ↔ Marugame, Kagawa",
+    "coords": "34.2856° N, 133.7994° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Marugame Castle01.jpg",
+      "artist": "Toto-tarou",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Marugame_Castle01.jpg"
+    }
+  },
+  {
+    "slug": "flying-witch",
+    "title": "Flying Witch",
+    "jp": "ふらいんぐうぃっち",
+    "blurb": "Makoto's apprenticeship ↔ Hirosaki, Aomori",
+    "coords": "40.6083° N, 140.4636° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Hirosaki Castle Keep Tower 20220508.jpg",
+      "artist": "掬茶",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hirosaki_Castle_Keep_Tower_20220508.jpg"
+    }
   }
 ]
