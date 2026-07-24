@@ -1258,5 +1258,75 @@
       "license": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Hirosaki_Castle_Keep_Tower_20220508.jpg"
     }
+  },
+  {
+    "slug": "wave-listen",
+    "title": "Wave, Listen to Me!",
+    "jp": "波よ聞いてくれ",
+    "blurb": "Minare's late-night radio booth ↔ Sapporo, Hokkaidō",
+    "coords": "43.0621° N, 141.3544° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Sapporo Clock Tower Hokkaido Japan 2.jpg",
+      "artist": "unknown",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sapporo_Clock_Tower_Hokkaido_Japan_2.jpg"
+    }
+  },
+  {
+    "slug": "skip-loafer",
+    "title": "Skip and Loafer",
+    "jp": "スキップとローファー",
+    "blurb": "Mitsumi's hometown ↔ Suzu, Noto Peninsula, Ishikawa",
+    "coords": "37.4500° N, 137.2667° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Suzu city hall 202309.jpg",
+      "artist": "運動会プロテインパワー",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Suzu_city_hall_202309.jpg"
+    }
+  },
+  {
+    "slug": "eccentric-family",
+    "title": "The Eccentric Family",
+    "jp": "有頂天家族",
+    "blurb": "The Shimogamo tanuki clan's forest ↔ Shimogamo Shrine, Kyoto",
+    "coords": "35.0392° N, 135.7728° E",
+    "archetype": "shrine",
+    "credit": {
+      "file": "File:Bridge and stream at Shimogamo Shrine.jpg",
+      "artist": "Grendelkhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bridge_and_stream_at_Shimogamo_Shrine.jpg"
+    }
+  },
+  {
+    "slug": "aria-venice",
+    "title": "ARIA the Animation",
+    "jp": "ARIA",
+    "blurb": "Neo-Venezia's canals ↔ Venice, Italy",
+    "coords": "45.4408° N, 12.3155° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Venice awakes (20618763815).jpg",
+      "artist": "Benh LIEU SONG (Flickr)",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg"
+    }
+  },
+  {
+    "slug": "nagi-asukara",
+    "title": "A Lull in the Sea",
+    "jp": "凪のあすから",
+    "blurb": "Shioshishio village's coastline ↔ Amakusa, Kumamoto",
+    "coords": "32.4667° N, 130.2000° E",
+    "archetype": "beach",
+    "credit": {
+      "file": "File:AmakusaFiveBridgeFrom.JPG",
+      "artist": "Ippukucho",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:AmakusaFiveBridgeFrom.JPG"
+    }
   }
 ]

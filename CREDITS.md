@@ -110,6 +110,11 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | Yuki Yuna is a Hero — Shuri Castle, Okinawa | [Naha Okinawa Japan Shuri-Castle-02.jpg](https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg) | CEphoto, Uwe Aranas | CC BY-SA 3.0 |
 | Poco's Udon World — Marugame, Kagawa | [Marugame Castle01.jpg](https://commons.wikimedia.org/wiki/File:Marugame_Castle01.jpg) | Toto-tarou | CC BY-SA 3.0 |
 | Flying Witch — Hirosaki, Aomori | [Hirosaki Castle Keep Tower 20220508.jpg](https://commons.wikimedia.org/wiki/File:Hirosaki_Castle_Keep_Tower_20220508.jpg) | 掬茶 | CC BY-SA 4.0 |
+| Wave, Listen to Me! — Sapporo, Hokkaidō | [Sapporo Clock Tower Hokkaido Japan 2.jpg](https://commons.wikimedia.org/wiki/File:Sapporo_Clock_Tower_Hokkaido_Japan_2.jpg) | unknown | CC BY-SA 3.0 |
+| Skip and Loafer — Suzu, Noto Peninsula, Ishikawa | [Suzu city hall 202309.jpg](https://commons.wikimedia.org/wiki/File:Suzu_city_hall_202309.jpg) | 運動会プロテインパワー | CC BY-SA 4.0 |
+| The Eccentric Family — Shimogamo Shrine, Kyoto | [Bridge and stream at Shimogamo Shrine.jpg](https://commons.wikimedia.org/wiki/File:Bridge_and_stream_at_Shimogamo_Shrine.jpg) | Grendelkhan | CC BY-SA 4.0 |
+| ARIA the Animation — Venice, Italy | [Venice awakes (20618763815).jpg](https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg) | Benh LIEU SONG (Flickr) | CC BY-SA 4.0 |
+| A Lull in the Sea — Amakusa, Kumamoto | [AmakusaFiveBridgeFrom.JPG](https://commons.wikimedia.org/wiki/File:AmakusaFiveBridgeFrom.JPG) | Ippukucho | CC BY 3.0 |
 
 ## Illustrated frames
 
