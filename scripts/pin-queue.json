@@ -64,5 +64,93 @@
       "Himeji Castle",
       "Himeji city Hyogo"
     ]
+  },
+  {
+    "slug": "sakura-quest",
+    "title": "Sakura Quest",
+    "jp": "サクラクエスト",
+    "blurb": "Yoshino's failed job hunt ↔ Nanto's Johana district, Toyama",
+    "coords": "36.5333° N, 136.9667° E",
+    "queries": [
+      "Johana Nanto Toyama",
+      "Nanto Toyama town"
+    ]
+  },
+  {
+    "slug": "kyoukai-kanata",
+    "title": "Beyond the Boundary",
+    "jp": "境界の彼方",
+    "blurb": "Akihito and Mirai's Nagoya ↔ Higashiyama & Chikusa, Nagoya, Aichi",
+    "coords": "35.1815° N, 136.9066° E",
+    "queries": [
+      "Higashiyama Park Nagoya",
+      "Chikusa Nagoya street"
+    ]
+  },
+  {
+    "slug": "golden-time",
+    "title": "Golden Time",
+    "jp": "ゴールデンタイム",
+    "blurb": "Banri's fresh start ↔ Meiji University's Izumi campus, Suginami, Tokyo",
+    "coords": "35.6938° N, 139.6194° E",
+    "queries": [
+      "Meiji University Izumi campus",
+      "Suginami Tokyo street"
+    ]
+  },
+  {
+    "slug": "servant-service",
+    "title": "Servant x Service",
+    "jp": "サーバント×サービス",
+    "blurb": "Ichijo's civil-service office ↔ Hokkaido Government Red Brick Office, Sapporo",
+    "coords": "43.0621° N, 141.3544° E",
+    "queries": [
+      "Hokkaido Government Old Building",
+      "Sapporo Red Brick office"
+    ]
+  },
+  {
+    "slug": "sora-no-woto",
+    "title": "Sound of the Sky",
+    "jp": "そらのおと",
+    "blurb": "The 1121st Platoon's watchtower ↔ Kintai Bridge, Iwakuni, Yamaguchi",
+    "coords": "34.1670° N, 132.1770° E",
+    "queries": [
+      "Kintai Bridge Iwakuni",
+      "Iwakuni Yamaguchi bridge"
+    ]
+  },
+  {
+    "slug": "monogatari-ome",
+    "title": "Monogatari Series",
+    "jp": "物語シリーズ",
+    "blurb": "Koyomi's haunted Tokyo ↔ Ome, Tokyo",
+    "coords": "35.7875° N, 139.2761° E",
+    "queries": [
+      "Ome Tokyo station",
+      "Ome city Tokyo"
+    ]
+  },
+  {
+    "slug": "tari-tari",
+    "title": "Tari Tari",
+    "jp": "タリタリ",
+    "blurb": "The choir club's seaside ↔ Enoshima, Kanagawa",
+    "coords": "35.2989° N, 139.4808° E",
+    "queries": [
+      "Enoshima island Kanagawa",
+      "Enoshima Shonan coast"
+    ]
+  },
+  {
+    "slug": "kokoro-connect",
+    "title": "Kokoro Connect",
+    "jp": "ココロコネクト",
+    "blurb": "The Cultural Research Club's town ↔ Kunitachi, Tokyo",
+    "coords": "35.6839° N, 139.4414° E",
+    "queries": [
+      "Kunitachi Tokyo station",
+      "Kunitachi city street"
+    ]
   }
 ]
