@@ -11,61 +11,6 @@
     ]
   },
   {
-    "slug": "tamayura",
-    "title": "Tamayura",
-    "jp": "たまゆら",
-    "blurb": "Fu's hometown photo walks ↔ Takehara, Hiroshima ('Little Kyoto')",
-    "coords": "34.3389° N, 132.9083° E",
-    "queries": [
-      "Takehara old town Hiroshima",
-      "Takehara Little Kyoto"
-    ]
-  },
-  {
-    "slug": "yama-susume",
-    "title": "Encouragement of Climb",
-    "jp": "ヤマノススメ",
-    "blurb": "Aoi and Hinata's climb ↔ Mount Tanigawa, Gunma",
-    "coords": "36.7908° N, 138.9308° E",
-    "queries": [
-      "Mount Tanigawa Gunma",
-      "Tanigawadake"
-    ]
-  },
-  {
-    "slug": "tsurune",
-    "title": "Tsurune",
-    "jp": "ツルネ",
-    "blurb": "Minato's kyudo dojo town ↔ Kasama, Ibaraki",
-    "coords": "36.3419° N, 140.3072° E",
-    "queries": [
-      "Kasama Ibaraki",
-      "Kasama Inari Shrine"
-    ]
-  },
-  {
-    "slug": "aoashi",
-    "title": "Aoashi",
-    "jp": "アオアシ",
-    "blurb": "Ashito's youth academy pitch ↔ Komazawa Olympic Park, Tokyo",
-    "coords": "35.6217° N, 139.6608° E",
-    "queries": [
-      "Komazawa Olympic Park",
-      "Komazawa stadium Tokyo"
-    ]
-  },
-  {
-    "slug": "pancreas",
-    "title": "I Want to Eat Your Pancreas",
-    "jp": "君の膵臓をたべたい",
-    "blurb": "Sakura's hospital-town walks ↔ Himeji, Hyōgo",
-    "coords": "34.8394° N, 134.6939° E",
-    "queries": [
-      "Himeji Castle",
-      "Himeji city Hyogo"
-    ]
-  },
-  {
     "slug": "sakura-quest",
     "title": "Sakura Quest",
     "jp": "サクラクエスト",

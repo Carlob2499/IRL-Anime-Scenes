@@ -115,6 +115,11 @@ No changes were made beyond resizing and the site-wide CSS color grade.
 | The Eccentric Family — Shimogamo Shrine, Kyoto | [Bridge and stream at Shimogamo Shrine.jpg](https://commons.wikimedia.org/wiki/File:Bridge_and_stream_at_Shimogamo_Shrine.jpg) | Grendelkhan | CC BY-SA 4.0 |
 | ARIA the Animation — Venice, Italy | [Venice awakes (20618763815).jpg](https://commons.wikimedia.org/wiki/File:Venice_awakes_(20618763815).jpg) | Benh LIEU SONG (Flickr) | CC BY-SA 4.0 |
 | A Lull in the Sea — Amakusa, Kumamoto | [AmakusaFiveBridgeFrom.JPG](https://commons.wikimedia.org/wiki/File:AmakusaFiveBridgeFrom.JPG) | Ippukucho | CC BY 3.0 |
+| Tamayura — Takehara, Hiroshima ('Little Kyoto') | [Old Houses in Takehara City.jpg](https://commons.wikimedia.org/wiki/File:Old_Houses_in_Takehara_City.jpg) | ori2uru from Japan | CC BY 2.0 |
+| Encouragement of Climb — Mount Tanigawa, Gunma | [Tanigawa-dake, October 2007.jpg](https://commons.wikimedia.org/wiki/File:Tanigawa-dake,_October_2007.jpg) | Brian Adler | Public domain |
+| Tsurune — Kasama, Ibaraki | [Kasama Inari shrine 1.jpg](https://commons.wikimedia.org/wiki/File:Kasama_Inari_shrine_1.jpg) | 投稿者↑PON（ウエポン）が2007年4月29日に境内で撮影 | CC BY-SA 3.0 |
+| Aoashi — Komazawa Olympic Park, Tokyo | [Komazawa olympic park.jpg](https://commons.wikimedia.org/wiki/File:Komazawa_olympic_park.jpg) | unknown | CC BY-SA 3.0 |
+| I Want to Eat Your Pancreas — Himeji, Hyōgo | [Château de Himeji02.jpg](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Himeji02.jpg) | Bernard Gagnon | CC BY-SA 3.0 |
 
 ## Illustrated frames
 

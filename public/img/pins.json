@@ -1328,5 +1328,75 @@
       "license": "CC BY 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:AmakusaFiveBridgeFrom.JPG"
     }
+  },
+  {
+    "slug": "tamayura",
+    "title": "Tamayura",
+    "jp": "たまゆら",
+    "blurb": "Fu's hometown photo walks ↔ Takehara, Hiroshima ('Little Kyoto')",
+    "coords": "34.3389° N, 132.9083° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Old Houses in Takehara City.jpg",
+      "artist": "ori2uru from Japan",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_Houses_in_Takehara_City.jpg"
+    }
+  },
+  {
+    "slug": "yama-susume",
+    "title": "Encouragement of Climb",
+    "jp": "ヤマノススメ",
+    "blurb": "Aoi and Hinata's climb ↔ Mount Tanigawa, Gunma",
+    "coords": "36.7908° N, 138.9308° E",
+    "archetype": "mountain-lake",
+    "credit": {
+      "file": "File:Tanigawa-dake, October 2007.jpg",
+      "artist": "Brian Adler",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tanigawa-dake,_October_2007.jpg"
+    }
+  },
+  {
+    "slug": "tsurune",
+    "title": "Tsurune",
+    "jp": "ツルネ",
+    "blurb": "Minato's kyudo dojo town ↔ Kasama, Ibaraki",
+    "coords": "36.3419° N, 140.3072° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Kasama Inari shrine 1.jpg",
+      "artist": "投稿者↑PON（ウエポン）が2007年4月29日に境内で撮影",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kasama_Inari_shrine_1.jpg"
+    }
+  },
+  {
+    "slug": "aoashi",
+    "title": "Aoashi",
+    "jp": "アオアシ",
+    "blurb": "Ashito's youth academy pitch ↔ Komazawa Olympic Park, Tokyo",
+    "coords": "35.6217° N, 139.6608° E",
+    "archetype": "default",
+    "credit": {
+      "file": "File:Komazawa olympic park.jpg",
+      "artist": "unknown",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Komazawa_olympic_park.jpg"
+    }
+  },
+  {
+    "slug": "pancreas",
+    "title": "I Want to Eat Your Pancreas",
+    "jp": "君の膵臓をたべたい",
+    "blurb": "Sakura's hospital-town walks ↔ Himeji, Hyōgo",
+    "coords": "34.8394° N, 134.6939° E",
+    "archetype": "hillside-town",
+    "credit": {
+      "file": "File:Château de Himeji02.jpg",
+      "artist": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Himeji02.jpg"
+    }
   }
 ]
